@@ -1,0 +1,24 @@
+baseURL = "https://blogpagenotices.github.io/"
+languageCode = "es-es"
+title = "GTA 6 Noticias"
+theme = "PaperMod"
+
+[params]
+  env = "production"
+  description = "Noticias, guias y teorias sobre GTA 6"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = false
+  ShowToc = true
+
+[[menu.main]]
+  name = "Inicio"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Articulos"
+  url = "/posts/"
+  weight = 2
