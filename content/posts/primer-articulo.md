@@ -4,7 +4,7 @@ title = 'Todo lo que sabemos sobre GTA 6 hasta ahora'
 
 date = 2026-08-09T12:00:00-05:00
 
-draft = false
+draft = true
 
 +++
 
