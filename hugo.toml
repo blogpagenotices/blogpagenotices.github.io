@@ -2,9 +2,9 @@ baseURL = "https://blogpagenotices.github.io/"
 languageCode = "es-es"
 title = "GTA 6 Noticias"
 theme = "PaperMod"
+googleAnalytics = 'G-PBE4RX49LR'
 
 [params]
-  googleAnalyticsID = 'G-PBE4RX49LR'
   env = "production"
   description = "Noticias, guias y teorias sobre GTA 6"
   ShowReadingTime = true
