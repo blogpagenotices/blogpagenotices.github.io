@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GTA 6 on GTA 6 Noticias</title>
+    <link>http://localhost:1313/tags/gta-6/</link>
+    <description>Recent content in GTA 6 on GTA 6 Noticias</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 10 Aug 2026 09:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/gta-6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GTA 6 ya tiene fecha de lanzamiento oficial: 19 de noviembre de 2026</title>
+      <link>http://localhost:1313/posts/gta6-fecha-lanzamiento-confirmada/</link>
+      <pubDate>Mon, 10 Aug 2026 09:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/gta6-fecha-lanzamiento-confirmada/</guid>
+      <description>Rockstar Games confirmó oficialmente que Grand Theft Auto VI llegará el 19 de noviembre de 2026 a PS5 y Xbox Series X|S.</description>
+    </item>
+  </channel>
+</rss>

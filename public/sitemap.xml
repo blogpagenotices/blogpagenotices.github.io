@@ -2,17 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2026-08-10T09:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/fecha-de-lanzamiento/</loc>
+    <lastmod>2026-08-10T09:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/gta-6/</loc>
+    <lastmod>2026-08-10T09:00:00-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-08-09T12:00:00-05:00</lastmod>
+    <lastmod>2026-08-10T09:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/gta6-fecha-lanzamiento-confirmada/</loc>
+    <lastmod>2026-08-10T09:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/noticias/</loc>
+    <lastmod>2026-08-10T09:00:00-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-08-09T12:00:00-05:00</lastmod>
+    <lastmod>2026-08-10T09:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/rockstar-games/</loc>
+    <lastmod>2026-08-10T09:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-08-10T09:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/vice-city/</loc>
+    <lastmod>2026-08-10T09:00:00-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/primer-articulo/</loc>
     <lastmod>2026-08-09T12:00:00-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

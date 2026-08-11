@@ -4,6 +4,7 @@ title = "GTA 6 Noticias"
 theme = "PaperMod"
 
 [params]
+  googleAnalyticsID = 'G-PBE4RX49LR'
   env = "production"
   description = "Noticias, guias y teorias sobre GTA 6"
   ShowReadingTime = true
