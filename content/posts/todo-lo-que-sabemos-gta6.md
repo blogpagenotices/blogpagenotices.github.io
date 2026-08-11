@@ -8,7 +8,7 @@ tags = ['GTA 6', 'Rockstar Games', 'Guía', 'Vice City', 'Leonida']
 categories = ['Guías']
 
 [cover]
-  image = 'images/gta6-portada-general.jpg'
+  image = 'images/portada-gta6.jpg'
   alt = 'Ciudad costera nocturna con luces de neón, ambiente inspirado en Vice City'
   caption = ''
   relative = false
