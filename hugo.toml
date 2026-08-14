@@ -1,25 +1,47 @@
 baseURL = "https://blogpagenotices.github.io/"
-languageCode = "es-es"
-title = "GTA 6 Noticias"
+defaultContentLanguage = "es"
+defaultContentLanguageInSubdir = false
 theme = "PaperMod"
-googleAnalytics = 'G-PBE4RX49LR'
+googleAnalytics = "G-PBE4RX49LR"
+
+[languages]
+  [languages.es]
+    languageCode = "es-es"
+    languageName = "Español"
+    weight = 1
+    title = "GTA 6 Noticias"
+    [languages.es.params]
+      description = "Noticias, guias y teorias sobre GTA 6"
+    [[languages.es.menu.main]]
+      name = "Inicio"
+      url = "/"
+      weight = 1
+    [[languages.es.menu.main]]
+      name = "Articulos"
+      url = "/posts/"
+      weight = 2
+
+  [languages.en]
+    languageCode = "en-us"
+    languageName = "English"
+    weight = 2
+    title = "GTA 6 News"
+    [languages.en.params]
+      description = "News, guides and theories about GTA 6"
+    [[languages.en.menu.main]]
+      name = "Home"
+      url = "/en/"
+      weight = 1
+    [[languages.en.menu.main]]
+      name = "Articles"
+      url = "/en/posts/"
+      weight = 2
 
 [params]
   env = "production"
-  description = "Noticias, guias y teorias sobre GTA 6"
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = false
   ShowToc = true
-
-[[menu.main]]
-  name = "Inicio"
-  url = "/"
-  weight = 1
-
-[[menu.main]]
-  name = "Articulos"
-  url = "/posts/"
-  weight = 2

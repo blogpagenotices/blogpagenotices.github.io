@@ -6,34 +6,62 @@
     <description>Recent content in Tags on GTA 6 Noticias</description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <lastBuildDate>Mon, 10 Aug 2026 09:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 09:00:00 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Fecha De Lanzamiento</title>
-      <link>http://localhost:1313/tags/fecha-de-lanzamiento/</link>
-      <pubDate>Mon, 10 Aug 2026 09:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/tags/fecha-de-lanzamiento/</guid>
-      <description></description>
-    </item>
     <item>
       <title>GTA 6</title>
       <link>http://localhost:1313/tags/gta-6/</link>
-      <pubDate>Mon, 10 Aug 2026 09:00:00 -0500</pubDate>
+      <pubDate>Thu, 13 Aug 2026 09:00:00 -0500</pubDate>
       <guid>http://localhost:1313/tags/gta-6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PC</title>
+      <link>http://localhost:1313/tags/pc/</link>
+      <pubDate>Thu, 13 Aug 2026 09:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/tags/pc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Requisitos PC</title>
+      <link>http://localhost:1313/tags/requisitos-pc/</link>
+      <pubDate>Thu, 13 Aug 2026 09:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/tags/requisitos-pc/</guid>
       <description></description>
     </item>
     <item>
       <title>Rockstar Games</title>
       <link>http://localhost:1313/tags/rockstar-games/</link>
-      <pubDate>Mon, 10 Aug 2026 09:00:00 -0500</pubDate>
+      <pubDate>Thu, 13 Aug 2026 09:00:00 -0500</pubDate>
       <guid>http://localhost:1313/tags/rockstar-games/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guía</title>
+      <link>http://localhost:1313/tags/gu%C3%ADa/</link>
+      <pubDate>Mon, 10 Aug 2026 10:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/tags/gu%C3%ADa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Leonida</title>
+      <link>http://localhost:1313/tags/leonida/</link>
+      <pubDate>Mon, 10 Aug 2026 10:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/tags/leonida/</guid>
       <description></description>
     </item>
     <item>
       <title>Vice City</title>
       <link>http://localhost:1313/tags/vice-city/</link>
-      <pubDate>Mon, 10 Aug 2026 09:00:00 -0500</pubDate>
+      <pubDate>Mon, 10 Aug 2026 10:00:00 -0500</pubDate>
       <guid>http://localhost:1313/tags/vice-city/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fecha De Lanzamiento</title>
+      <link>http://localhost:1313/tags/fecha-de-lanzamiento/</link>
+      <pubDate>Mon, 10 Aug 2026 09:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/tags/fecha-de-lanzamiento/</guid>
       <description></description>
     </item>
   </channel>
