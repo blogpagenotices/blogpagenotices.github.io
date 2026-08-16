@@ -3,6 +3,7 @@ defaultContentLanguage = "es"
 defaultContentLanguageInSubdir = false
 theme = "PaperMod"
 googleAnalytics = "G-PBE4RX49LR"
+enableRobotsTXT = true
 
 [languages]
   [languages.es]

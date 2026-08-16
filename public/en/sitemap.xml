@@ -28,17 +28,17 @@
                 href="http://localhost:1313/en/tags/gta-6/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/posts/gta6-version-pc/</loc>
+    <loc>http://localhost:1313/en/posts/3-gta6-version-pc/</loc>
     <lastmod>2026-08-13T09:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
-                href="http://localhost:1313/posts/gta6-version-pc/"
+                href="http://localhost:1313/posts/3-gta6-version-pc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/posts/gta6-version-pc/"
+                href="http://localhost:1313/en/posts/3-gta6-version-pc/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/</loc>
@@ -112,24 +112,40 @@
                 href="http://localhost:1313/en/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/posts/gta6-fecha-lanzamiento-confirmada/</loc>
-    <lastmod>2026-08-10T09:00:00-05:00</lastmod>
+    <loc>http://localhost:1313/en/posts/1-todo-lo-que-sabemos-gta6/</loc>
+    <lastmod>2026-08-10T10:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
-                href="http://localhost:1313/posts/gta6-fecha-lanzamiento-confirmada/"
+                href="http://localhost:1313/posts/1-todo-lo-que-sabemos-gta6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/posts/gta6-fecha-lanzamiento-confirmada/"
+                href="http://localhost:1313/en/posts/1-todo-lo-que-sabemos-gta6/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/release-date/</loc>
-    <lastmod>2026-08-10T09:00:00-05:00</lastmod>
+    <loc>http://localhost:1313/en/tags/guide/</loc>
+    <lastmod>2026-08-10T10:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/categories/guides/</loc>
+    <lastmod>2026-08-10T10:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/leonida/</loc>
+    <lastmod>2026-08-10T10:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/tags/leonida/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/leonida/"
+                />
   </url><url>
     <loc>http://localhost:1313/en/tags/vice-city/</loc>
-    <lastmod>2026-08-10T09:00:00-05:00</lastmod>
+    <lastmod>2026-08-10T10:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
@@ -140,5 +156,21 @@
                 hreflang="en-us"
                 href="http://localhost:1313/en/tags/vice-city/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/en/posts/2-gta6-fecha-lanzamiento-confirmada/</loc>
+    <lastmod>2026-08-10T09:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/posts/2-gta6-fecha-lanzamiento-confirmada/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/posts/2-gta6-fecha-lanzamiento-confirmada/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/tags/release-date/</loc>
+    <lastmod>2026-08-10T09:00:00-05:00</lastmod>
   </url>
 </urlset>

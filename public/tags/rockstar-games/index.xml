@@ -10,23 +10,23 @@
     <atom:link href="http://localhost:1313/tags/rockstar-games/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GTA 6 solo llegará a PS5 y Xbox Series X|S: esto sabemos sobre la versión de PC</title>
-      <link>http://localhost:1313/posts/gta6-version-pc/</link>
+      <link>http://localhost:1313/posts/3-gta6-version-pc/</link>
       <pubDate>Thu, 13 Aug 2026 09:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/posts/gta6-version-pc/</guid>
+      <guid>http://localhost:1313/posts/3-gta6-version-pc/</guid>
       <description>Rockstar confirmó que GTA 6 llega el 19 de noviembre de 2026 solo a consolas. Repasamos qué se sabe (y qué es solo rumor) sobre la versión de PC.</description>
     </item>
     <item>
       <title>Todo lo que sabemos sobre GTA 6 hasta ahora (y por qué ya no son solo rumores)</title>
-      <link>http://localhost:1313/posts/todo-lo-que-sabemos-gta6/</link>
+      <link>http://localhost:1313/posts/1-todo-lo-que-sabemos-gta6/</link>
       <pubDate>Mon, 10 Aug 2026 10:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/posts/todo-lo-que-sabemos-gta6/</guid>
+      <guid>http://localhost:1313/posts/1-todo-lo-que-sabemos-gta6/</guid>
       <description>Fecha, precio, ediciones, protagonistas y mapa: repasamos todo lo confirmado oficialmente sobre GTA 6 antes de su lanzamiento.</description>
     </item>
     <item>
       <title>GTA 6 ya tiene fecha de lanzamiento oficial: 19 de noviembre de 2026</title>
-      <link>http://localhost:1313/posts/gta6-fecha-lanzamiento-confirmada/</link>
+      <link>http://localhost:1313/posts/2-gta6-fecha-lanzamiento-confirmada/</link>
       <pubDate>Mon, 10 Aug 2026 09:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/posts/gta6-fecha-lanzamiento-confirmada/</guid>
+      <guid>http://localhost:1313/posts/2-gta6-fecha-lanzamiento-confirmada/</guid>
       <description>Rockstar Games confirmó oficialmente que Grand Theft Auto VI llegará el 19 de noviembre de 2026 a PS5 y Xbox Series X|S.</description>
     </item>
   </channel>
