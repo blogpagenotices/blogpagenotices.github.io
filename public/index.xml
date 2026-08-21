@@ -9,11 +9,32 @@
     <lastBuildDate>Thu, 20 Aug 2026 09:00:00 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Contacto</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Thu, 20 Aug 2026 09:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>Cómo ponerte en contacto con GTA 6 Noticias.</description>
+    </item>
+    <item>
       <title>CyberLeek: quién es el hacker detrás de la mayor filtración de GTA 6 desde 2022</title>
       <link>http://localhost:1313/posts/4-cyberleek-filtracion-gta6/</link>
       <pubDate>Thu, 20 Aug 2026 09:00:00 -0500</pubDate>
       <guid>http://localhost:1313/posts/4-cyberleek-filtracion-gta6/</guid>
       <description>Un grupo que se hace llamar CyberLeek filtró videos de gameplay y el mapa completo de GTA 6 días antes de la presentación oficial en Netflix. Esto es lo que se sabe.</description>
+    </item>
+    <item>
+      <title>Política de privacidad</title>
+      <link>http://localhost:1313/privacy/</link>
+      <pubDate>Thu, 20 Aug 2026 09:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/privacy/</guid>
+      <description>Política de privacidad de GTA 6 Noticias.</description>
+    </item>
+    <item>
+      <title>Sobre nosotros</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 20 Aug 2026 09:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Quiénes hacemos GTA 6 Noticias y de qué trata este sitio.</description>
     </item>
     <item>
       <title>GTA 6 solo llegará a PS5 y Xbox Series X|S: esto sabemos sobre la versión de PC</title>

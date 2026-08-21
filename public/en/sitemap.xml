@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/en/about/</loc>
+    <lastmod>2026-08-20T09:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/about/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/categories/</loc>
     <lastmod>2026-08-20T09:00:00-05:00</lastmod>
     <xhtml:link
@@ -13,6 +26,19 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/en/categories/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/contact/</loc>
+    <lastmod>2026-08-20T09:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/contact/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/tags/cyberleek/</loc>
@@ -84,6 +110,19 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/en/posts/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/privacy/</loc>
+    <lastmod>2026-08-20T09:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/privacy/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/tags/rockstar-games/</loc>

@@ -21,6 +21,18 @@ enableRobotsTXT = true
       name = "Articulos"
       url = "/posts/"
       weight = 2
+    [[languages.es.menu.main]]
+      name = "Sobre nosotros"
+      url = "/about/"
+      weight = 3
+    [[languages.es.menu.main]]
+      name = "Contacto"
+      url = "/contact/"
+      weight = 4
+    [[languages.es.menu.main]]
+      name = "Privacidad"
+      url = "/privacy/"
+      weight = 5
 
   [languages.en]
     languageCode = "en-us"
@@ -37,6 +49,18 @@ enableRobotsTXT = true
       name = "Articles"
       url = "/en/posts/"
       weight = 2
+    [[languages.en.menu.main]]
+      name = "About"
+      url = "/en/about/"
+      weight = 3
+    [[languages.en.menu.main]]
+      name = "Contact"
+      url = "/en/contact/"
+      weight = 4
+    [[languages.en.menu.main]]
+      name = "Privacy Policy"
+      url = "/en/privacy/"
+      weight = 5
 
 [params]
   env = "production"
