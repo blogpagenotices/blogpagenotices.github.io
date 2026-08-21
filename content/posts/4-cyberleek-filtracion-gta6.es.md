@@ -1,6 +1,6 @@
 +++
 title = 'CyberLeek: quién es el hacker detrás de la mayor filtración de GTA 6 desde 2022'
-date = 2026-08-20T09:00:00-05:00
+date = 2026-08-19T09:00:00-05:00
 draft = false
 description = 'Un grupo que se hace llamar CyberLeek filtró videos de gameplay y el mapa completo de GTA 6 días antes de la presentación oficial en Netflix. Esto es lo que se sabe.'
 summary = 'CyberLeek filtró gameplay y el mapa de GTA 6, publicó un manifiesto con exigencias a Rockstar, y ahora cobra por elegir la próxima filtración.'

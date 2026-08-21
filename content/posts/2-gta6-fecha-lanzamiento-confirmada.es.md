@@ -1,6 +1,6 @@
 +++
 title = 'GTA 6 ya tiene fecha de lanzamiento oficial: 19 de noviembre de 2026'
-date = 2026-08-10T09:00:00-05:00
+date = 2026-08-12T09:00:00-05:00
 draft = false
 description = 'Rockstar Games confirmó oficialmente que Grand Theft Auto VI llegará el 19 de noviembre de 2026 a PS5 y Xbox Series X|S.'
 summary = 'Todo lo que sabemos sobre la fecha de lanzamiento confirmada de GTA 6, sus plataformas y sus protagonistas.'

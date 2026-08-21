@@ -1,6 +1,6 @@
 +++
 title = 'GTA 6 finally has an official release date: November 19, 2026'
-date = 2026-08-10T09:00:00-05:00
+date = 2026-08-12T09:00:00-05:00
 draft = false
 description = 'Rockstar Games officially confirmed that Grand Theft Auto VI will launch on November 19, 2026 for PS5 and Xbox Series X|S.'
 summary = 'Everything we know about the confirmed release date for GTA 6, its platforms, and its protagonists.'

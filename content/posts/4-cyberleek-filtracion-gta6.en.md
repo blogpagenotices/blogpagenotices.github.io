@@ -1,6 +1,6 @@
 +++
 title = 'CyberLeek: who is the hacker behind the biggest GTA 6 leak since 2022'
-date = 2026-08-20T09:00:00-05:00
+date = 2026-08-19T09:00:00-05:00
 draft = false
 description = 'A group calling itself CyberLeek leaked gameplay footage and the full map of GTA 6 days before the official Netflix presentation. Here is what we know.'
 summary = 'CyberLeek leaked gameplay and the GTA 6 map, published a manifesto with demands to Rockstar, and is now charging people to vote on the next leak.'
