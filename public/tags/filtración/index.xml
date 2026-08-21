@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Filtración on GTA 6 Noticias</title>
+    <link>http://localhost:1313/tags/filtraci%C3%B3n/</link>
+    <description>Recent content in Filtración on GTA 6 Noticias</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 20 Aug 2026 09:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/filtraci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CyberLeek: quién es el hacker detrás de la mayor filtración de GTA 6 desde 2022</title>
+      <link>http://localhost:1313/posts/4-cyberleek-filtracion-gta6/</link>
+      <pubDate>Thu, 20 Aug 2026 09:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/4-cyberleek-filtracion-gta6/</guid>
+      <description>Un grupo que se hace llamar CyberLeek filtró videos de gameplay y el mapa completo de GTA 6 días antes de la presentación oficial en Netflix. Esto es lo que se sabe.</description>
+    </item>
+  </channel>
+</rss>
