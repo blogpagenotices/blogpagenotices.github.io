@@ -6,21 +6,21 @@
     <description>Recent content in Vice City on GTA 6 News</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Aug 2026 10:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 09:00:00 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/en/tags/vice-city/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GTA 6 finally has an official release date: November 19, 2026</title>
+      <link>http://localhost:1313/en/posts/2-gta6-fecha-lanzamiento-confirmada/</link>
+      <pubDate>Wed, 12 Aug 2026 09:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/en/posts/2-gta6-fecha-lanzamiento-confirmada/</guid>
+      <description>Rockstar Games officially confirmed that Grand Theft Auto VI will launch on November 19, 2026 for PS5 and Xbox Series X|S.</description>
+    </item>
     <item>
       <title>Everything we know about GTA 6 so far (and why it is not just rumors anymore)</title>
       <link>http://localhost:1313/en/posts/1-todo-lo-que-sabemos-gta6/</link>
       <pubDate>Mon, 10 Aug 2026 10:00:00 -0500</pubDate>
       <guid>http://localhost:1313/en/posts/1-todo-lo-que-sabemos-gta6/</guid>
       <description>Release date, price, editions, protagonists and map: we cover everything officially confirmed about GTA 6 ahead of launch.</description>
-    </item>
-    <item>
-      <title>GTA 6 finally has an official release date: November 19, 2026</title>
-      <link>http://localhost:1313/en/posts/2-gta6-fecha-lanzamiento-confirmada/</link>
-      <pubDate>Mon, 10 Aug 2026 09:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/en/posts/2-gta6-fecha-lanzamiento-confirmada/</guid>
-      <description>Rockstar Games officially confirmed that Grand Theft Auto VI will launch on November 19, 2026 for PS5 and Xbox Series X|S.</description>
     </item>
   </channel>
 </rss>

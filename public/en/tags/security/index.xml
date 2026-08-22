@@ -6,12 +6,19 @@
     <description>Recent content in Security on GTA 6 News</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Aug 2026 09:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 14:40:00 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/en/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The CyberLeek case escalates: Take-Two subpoenas Microsoft and Discord, and the hacker threatens to leak the full game</title>
+      <link>http://localhost:1313/en/posts/6-cyberleek-escala-demanda-amenaza/</link>
+      <pubDate>Fri, 21 Aug 2026 14:40:00 -0500</pubDate>
+      <guid>http://localhost:1313/en/posts/6-cyberleek-escala-demanda-amenaza/</guid>
+      <description>Take-Two filed legal subpoenas against Microsoft and Discord to identify CyberLeek. The group responded by threatening to leak all of GTA 6 if &amp;#34;something happens to them.&amp;#34;</description>
+    </item>
     <item>
       <title>CyberLeek: who is the hacker behind the biggest GTA 6 leak since 2022</title>
       <link>http://localhost:1313/en/posts/4-cyberleek-filtracion-gta6/</link>
-      <pubDate>Thu, 20 Aug 2026 09:00:00 -0500</pubDate>
+      <pubDate>Wed, 19 Aug 2026 09:00:00 -0500</pubDate>
       <guid>http://localhost:1313/en/posts/4-cyberleek-filtracion-gta6/</guid>
       <description>A group calling itself CyberLeek leaked gameplay footage and the full map of GTA 6 days before the official Netflix presentation. Here is what we know.</description>
     </item>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Take-Two on GTA 6 News</title>
+    <link>http://localhost:1313/en/tags/take-two/</link>
+    <description>Recent content in Take-Two on GTA 6 News</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Aug 2026 14:40:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/take-two/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The CyberLeek case escalates: Take-Two subpoenas Microsoft and Discord, and the hacker threatens to leak the full game</title>
+      <link>http://localhost:1313/en/posts/6-cyberleek-escala-demanda-amenaza/</link>
+      <pubDate>Fri, 21 Aug 2026 14:40:00 -0500</pubDate>
+      <guid>http://localhost:1313/en/posts/6-cyberleek-escala-demanda-amenaza/</guid>
+      <description>Take-Two filed legal subpoenas against Microsoft and Discord to identify CyberLeek. The group responded by threatening to leak all of GTA 6 if &amp;#34;something happens to them.&amp;#34;</description>
+    </item>
+  </channel>
+</rss>

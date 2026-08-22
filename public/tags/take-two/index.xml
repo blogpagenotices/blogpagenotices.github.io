@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Take-Two on GTA 6 Noticias</title>
+    <link>http://localhost:1313/tags/take-two/</link>
+    <description>Recent content in Take-Two on GTA 6 Noticias</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 21 Aug 2026 14:40:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/take-two/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El caso CyberLeek escala: Take-Two demanda a Microsoft y Discord, y el hacker amenaza con filtrar todo el juego</title>
+      <link>http://localhost:1313/posts/6-cyberleek-escala-demanda-amenaza/</link>
+      <pubDate>Fri, 21 Aug 2026 14:40:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/6-cyberleek-escala-demanda-amenaza/</guid>
+      <description>Take-Two presentó citaciones judiciales contra Microsoft y Discord para identificar a CyberLeek. El grupo respondió amenazando con filtrar GTA 6 completo si &amp;#34;le pasa algo&amp;#34;.</description>
+    </item>
+  </channel>
+</rss>

@@ -6,12 +6,12 @@
     <description>Recent content in Rockstar Games on GTA 6 News</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Aug 2026 09:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 09:00:00 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/en/tags/rockstar-games/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CyberLeek: who is the hacker behind the biggest GTA 6 leak since 2022</title>
       <link>http://localhost:1313/en/posts/4-cyberleek-filtracion-gta6/</link>
-      <pubDate>Thu, 20 Aug 2026 09:00:00 -0500</pubDate>
+      <pubDate>Wed, 19 Aug 2026 09:00:00 -0500</pubDate>
       <guid>http://localhost:1313/en/posts/4-cyberleek-filtracion-gta6/</guid>
       <description>A group calling itself CyberLeek leaked gameplay footage and the full map of GTA 6 days before the official Netflix presentation. Here is what we know.</description>
     </item>
@@ -23,18 +23,18 @@
       <description>Rockstar confirmed GTA 6 launches on November 19, 2026 for consoles only. We break down what is known (and what is just a rumor) about the PC version.</description>
     </item>
     <item>
+      <title>GTA 6 finally has an official release date: November 19, 2026</title>
+      <link>http://localhost:1313/en/posts/2-gta6-fecha-lanzamiento-confirmada/</link>
+      <pubDate>Wed, 12 Aug 2026 09:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/en/posts/2-gta6-fecha-lanzamiento-confirmada/</guid>
+      <description>Rockstar Games officially confirmed that Grand Theft Auto VI will launch on November 19, 2026 for PS5 and Xbox Series X|S.</description>
+    </item>
+    <item>
       <title>Everything we know about GTA 6 so far (and why it is not just rumors anymore)</title>
       <link>http://localhost:1313/en/posts/1-todo-lo-que-sabemos-gta6/</link>
       <pubDate>Mon, 10 Aug 2026 10:00:00 -0500</pubDate>
       <guid>http://localhost:1313/en/posts/1-todo-lo-que-sabemos-gta6/</guid>
       <description>Release date, price, editions, protagonists and map: we cover everything officially confirmed about GTA 6 ahead of launch.</description>
-    </item>
-    <item>
-      <title>GTA 6 finally has an official release date: November 19, 2026</title>
-      <link>http://localhost:1313/en/posts/2-gta6-fecha-lanzamiento-confirmada/</link>
-      <pubDate>Mon, 10 Aug 2026 09:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/en/posts/2-gta6-fecha-lanzamiento-confirmada/</guid>
-      <description>Rockstar Games officially confirmed that Grand Theft Auto VI will launch on November 19, 2026 for PS5 and Xbox Series X|S.</description>
     </item>
   </channel>
 </rss>
