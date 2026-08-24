@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/en/categories/</loc>
-    <lastmod>2026-08-21T14:40:00-05:00</lastmod>
+    <lastmod>2026-08-22T11:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/tags/cyberleek/</loc>
-    <lastmod>2026-08-21T14:40:00-05:00</lastmod>
+    <lastmod>2026-08-22T11:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
@@ -28,8 +28,21 @@
                 href="http://localhost:1313/en/tags/cyberleek/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/posts/7-cyberleek-octavo-video-build-jugable/</loc>
+    <lastmod>2026-08-22T11:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/posts/7-cyberleek-octavo-video-build-jugable/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/posts/7-cyberleek-octavo-video-build-jugable/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/tags/gta-6/</loc>
-    <lastmod>2026-08-21T14:40:00-05:00</lastmod>
+    <lastmod>2026-08-22T11:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
@@ -42,7 +55,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/</loc>
-    <lastmod>2026-08-21T14:40:00-05:00</lastmod>
+    <lastmod>2026-08-22T11:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
@@ -55,13 +68,13 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/tags/leak/</loc>
-    <lastmod>2026-08-21T14:40:00-05:00</lastmod>
+    <lastmod>2026-08-22T11:00:00-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/categories/news/</loc>
-    <lastmod>2026-08-21T14:40:00-05:00</lastmod>
+    <lastmod>2026-08-22T11:00:00-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/posts/</loc>
-    <lastmod>2026-08-21T14:40:00-05:00</lastmod>
+    <lastmod>2026-08-22T11:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
@@ -73,11 +86,21 @@
                 href="http://localhost:1313/en/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/security/</loc>
-    <lastmod>2026-08-21T14:40:00-05:00</lastmod>
+    <loc>http://localhost:1313/en/tags/rockstar-games/</loc>
+    <lastmod>2026-08-22T11:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/tags/rockstar-games/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/rockstar-games/"
+                />
   </url><url>
     <loc>http://localhost:1313/en/tags/</loc>
-    <lastmod>2026-08-21T14:40:00-05:00</lastmod>
+    <lastmod>2026-08-22T11:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
@@ -90,7 +113,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/tags/take-two/</loc>
-    <lastmod>2026-08-21T14:40:00-05:00</lastmod>
+    <lastmod>2026-08-22T11:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
@@ -101,6 +124,9 @@
                 hreflang="en-us"
                 href="http://localhost:1313/en/tags/take-two/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/en/tags/security/</loc>
+    <lastmod>2026-08-21T14:40:00-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/posts/6-cyberleek-escala-demanda-amenaza/</loc>
     <lastmod>2026-08-21T14:40:00-05:00</lastmod>
@@ -200,19 +226,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/en/posts/4-cyberleek-filtracion-gta6/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/tags/rockstar-games/</loc>
-    <lastmod>2026-08-19T09:00:00-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-es"
-                href="http://localhost:1313/tags/rockstar-games/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/rockstar-games/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/posts/3-gta6-version-pc/</loc>

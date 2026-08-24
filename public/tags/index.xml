@@ -6,27 +6,41 @@
     <description>Recent content in Tags on GTA 6 Noticias</description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <lastBuildDate>Fri, 21 Aug 2026 14:40:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 11:00:00 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CyberLeek</title>
       <link>http://localhost:1313/tags/cyberleek/</link>
-      <pubDate>Fri, 21 Aug 2026 14:40:00 -0500</pubDate>
+      <pubDate>Sat, 22 Aug 2026 11:00:00 -0500</pubDate>
       <guid>http://localhost:1313/tags/cyberleek/</guid>
       <description></description>
     </item>
     <item>
       <title>Filtración</title>
       <link>http://localhost:1313/tags/filtraci%C3%B3n/</link>
-      <pubDate>Fri, 21 Aug 2026 14:40:00 -0500</pubDate>
+      <pubDate>Sat, 22 Aug 2026 11:00:00 -0500</pubDate>
       <guid>http://localhost:1313/tags/filtraci%C3%B3n/</guid>
       <description></description>
     </item>
     <item>
       <title>GTA 6</title>
       <link>http://localhost:1313/tags/gta-6/</link>
-      <pubDate>Fri, 21 Aug 2026 14:40:00 -0500</pubDate>
+      <pubDate>Sat, 22 Aug 2026 11:00:00 -0500</pubDate>
       <guid>http://localhost:1313/tags/gta-6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rockstar Games</title>
+      <link>http://localhost:1313/tags/rockstar-games/</link>
+      <pubDate>Sat, 22 Aug 2026 11:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/tags/rockstar-games/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Take-Two</title>
+      <link>http://localhost:1313/tags/take-two/</link>
+      <pubDate>Sat, 22 Aug 2026 11:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/tags/take-two/</guid>
       <description></description>
     </item>
     <item>
@@ -34,13 +48,6 @@
       <link>http://localhost:1313/tags/seguridad/</link>
       <pubDate>Fri, 21 Aug 2026 14:40:00 -0500</pubDate>
       <guid>http://localhost:1313/tags/seguridad/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Take-Two</title>
-      <link>http://localhost:1313/tags/take-two/</link>
-      <pubDate>Fri, 21 Aug 2026 14:40:00 -0500</pubDate>
-      <guid>http://localhost:1313/tags/take-two/</guid>
       <description></description>
     </item>
     <item>
@@ -62,13 +69,6 @@
       <link>http://localhost:1313/tags/personajes/</link>
       <pubDate>Thu, 20 Aug 2026 09:00:00 -0500</pubDate>
       <guid>http://localhost:1313/tags/personajes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Rockstar Games</title>
-      <link>http://localhost:1313/tags/rockstar-games/</link>
-      <pubDate>Wed, 19 Aug 2026 09:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/tags/rockstar-games/</guid>
       <description></description>
     </item>
     <item>
