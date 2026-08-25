@@ -2,8 +2,8 @@
 title = 'Van 8 videos filtrados de GTA 6 y CyberLeek asegura tener una build jugable completa'
 date = 2026-08-22T11:00:00-05:00
 draft = false
-description = 'Nuevas filtraciones muestran a Jason en un club de striptease y conduciendo a alta velocidad. CyberLeek dice tener una version jugable distribuida en varios lugares del mundo, aunque parte de esta ultima afirmacion no esta confirmada.'
-summary = 'El octavo video filtrado de GTA 6 llega junto a una supuesta amenaza de filtrar una build jugable completa, mientras el sitio de CyberLeek cae y Take-Two amplia su ofensiva legal.'
+description = 'Nuevas filtraciones muestran a Jason en un club de striptease y conduciendo a alta velocidad. CyberLeek dice tener una versión jugable distribuida en varios lugares del mundo, aunque parte de esta última afirmación no está confirmada.'
+summary = 'El octavo video filtrado de GTA 6 llega junto a una supuesta amenaza de filtrar una build jugable completa, mientras el sitio de CyberLeek cae y Take-Two amplía su ofensiva legal.'
 tags = ['GTA 6', 'CyberLeek', 'Filtración', 'Take-Two', 'Rockstar Games']
 categories = ['Noticias']
 
