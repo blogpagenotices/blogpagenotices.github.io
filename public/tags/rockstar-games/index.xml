@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Rockstar Games on GTA 6 Noticias</title>
-    <link>http://localhost:1313/tags/rockstar-games/</link>
+    <link>http://localhost:63340/tags/rockstar-games/</link>
     <description>Recent content in Rockstar Games on GTA 6 Noticias</description>
     <generator>Hugo</generator>
     <language>es-es</language>
     <lastBuildDate>Sat, 22 Aug 2026 11:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/rockstar-games/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:63340/tags/rockstar-games/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Van 8 videos filtrados de GTA 6 y CyberLeek asegura tener una build jugable completa</title>
-      <link>http://localhost:1313/posts/7-cyberleek-octavo-video-build-jugable/</link>
+      <link>http://localhost:63340/posts/7-cyberleek-octavo-video-build-jugable/</link>
       <pubDate>Sat, 22 Aug 2026 11:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/posts/7-cyberleek-octavo-video-build-jugable/</guid>
+      <guid>http://localhost:63340/posts/7-cyberleek-octavo-video-build-jugable/</guid>
       <description>Nuevas filtraciones muestran a Jason en un club de striptease y conduciendo a alta velocidad. CyberLeek dice tener una versión jugable distribuida en varios lugares del mundo, aunque parte de esta última afirmación no está confirmada.</description>
     </item>
     <item>
       <title>CyberLeek: quién es el hacker detrás de la mayor filtración de GTA 6 desde 2022</title>
-      <link>http://localhost:1313/posts/4-cyberleek-filtracion-gta6/</link>
+      <link>http://localhost:63340/posts/4-cyberleek-filtracion-gta6/</link>
       <pubDate>Wed, 19 Aug 2026 09:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/posts/4-cyberleek-filtracion-gta6/</guid>
+      <guid>http://localhost:63340/posts/4-cyberleek-filtracion-gta6/</guid>
       <description>Un grupo que se hace llamar CyberLeek filtró videos de gameplay y el mapa completo de GTA 6 días antes de la presentación oficial en Netflix. Esto es lo que se sabe.</description>
     </item>
     <item>
       <title>GTA 6 solo llegará a PS5 y Xbox Series X|S: esto sabemos sobre la versión de PC</title>
-      <link>http://localhost:1313/posts/3-gta6-version-pc/</link>
+      <link>http://localhost:63340/posts/3-gta6-version-pc/</link>
       <pubDate>Thu, 13 Aug 2026 09:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/posts/3-gta6-version-pc/</guid>
+      <guid>http://localhost:63340/posts/3-gta6-version-pc/</guid>
       <description>Rockstar confirmó que GTA 6 llega el 19 de noviembre de 2026 solo a consolas. Repasamos qué se sabe (y qué es solo rumor) sobre la versión de PC.</description>
     </item>
     <item>
       <title>GTA 6 ya tiene fecha de lanzamiento oficial: 19 de noviembre de 2026</title>
-      <link>http://localhost:1313/posts/2-gta6-fecha-lanzamiento-confirmada/</link>
+      <link>http://localhost:63340/posts/2-gta6-fecha-lanzamiento-confirmada/</link>
       <pubDate>Wed, 12 Aug 2026 09:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/posts/2-gta6-fecha-lanzamiento-confirmada/</guid>
+      <guid>http://localhost:63340/posts/2-gta6-fecha-lanzamiento-confirmada/</guid>
       <description>Rockstar Games confirmó oficialmente que Grand Theft Auto VI llegará el 19 de noviembre de 2026 a PS5 y Xbox Series X|S.</description>
     </item>
     <item>
       <title>Todo lo que sabemos sobre GTA 6 hasta ahora (y por qué ya no son solo rumores)</title>
-      <link>http://localhost:1313/posts/1-todo-lo-que-sabemos-gta6/</link>
+      <link>http://localhost:63340/posts/1-todo-lo-que-sabemos-gta6/</link>
       <pubDate>Mon, 10 Aug 2026 10:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/posts/1-todo-lo-que-sabemos-gta6/</guid>
+      <guid>http://localhost:63340/posts/1-todo-lo-que-sabemos-gta6/</guid>
       <description>Fecha, precio, ediciones, protagonistas y mapa: repasamos todo lo confirmado oficialmente sobre GTA 6 antes de su lanzamiento.</description>
     </item>
   </channel>

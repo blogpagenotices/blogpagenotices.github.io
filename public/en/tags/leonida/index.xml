@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Leonida on GTA 6 News</title>
-    <link>http://localhost:1313/en/tags/leonida/</link>
+    <link>http://localhost:63340/en/tags/leonida/</link>
     <description>Recent content in Leonida on GTA 6 News</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Aug 2026 10:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/tags/leonida/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:63340/en/tags/leonida/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Everything we know about GTA 6 so far (and why it is not just rumors anymore)</title>
-      <link>http://localhost:1313/en/posts/1-todo-lo-que-sabemos-gta6/</link>
+      <link>http://localhost:63340/en/posts/1-todo-lo-que-sabemos-gta6/</link>
       <pubDate>Mon, 10 Aug 2026 10:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/en/posts/1-todo-lo-que-sabemos-gta6/</guid>
+      <guid>http://localhost:63340/en/posts/1-todo-lo-que-sabemos-gta6/</guid>
       <description>Release date, price, editions, protagonists and map: we cover everything officially confirmed about GTA 6 ahead of launch.</description>
     </item>
   </channel>

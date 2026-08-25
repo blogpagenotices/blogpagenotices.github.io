@@ -2,66 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>GTA 6 on GTA 6 News</title>
-    <link>http://localhost:1313/en/tags/gta-6/</link>
+    <link>http://localhost:63340/en/tags/gta-6/</link>
     <description>Recent content in GTA 6 on GTA 6 News</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Aug 2026 19:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/tags/gta-6/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Aug 2026 16:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:63340/en/tags/gta-6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New wave of GTA 6 leaks: beach, video game store, and just two days from the official event</title>
+      <link>http://localhost:63340/en/posts/9-cyberleek-playa-tienda-nueva-oleada/</link>
+      <pubDate>Tue, 25 Aug 2026 16:00:00 -0500</pubDate>
+      <guid>http://localhost:63340/en/posts/9-cyberleek-playa-tienda-nueva-oleada/</guid>
+      <description>CyberLeek posted three more clips on August 25: Jason biking along the beach, a fictional video game store, and a third video with explicit content that sparked separate controversy.</description>
+    </item>
     <item>
       <title>CyberLeek&#39;s dark side: its cryptocurrency surges while the movement it cited disowns it</title>
-      <link>http://localhost:1313/en/posts/8-cyberleek-token-cripto-dudas/</link>
+      <link>http://localhost:63340/en/posts/8-cyberleek-token-cripto-dudas/</link>
       <pubDate>Sun, 23 Aug 2026 19:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/en/posts/8-cyberleek-token-cripto-dudas/</guid>
+      <guid>http://localhost:63340/en/posts/8-cyberleek-token-cripto-dudas/</guid>
       <description>The CYBERLEEK token surged over 14x in 24 hours while Stop Killing Games, the movement the leaker cited as inspiration, publicly distanced itself from their actions.</description>
     </item>
     <item>
       <title>Eight GTA 6 leaked videos and counting: CyberLeek claims to have a full playable build</title>
-      <link>http://localhost:1313/en/posts/7-cyberleek-octavo-video-build-jugable/</link>
+      <link>http://localhost:63340/en/posts/7-cyberleek-octavo-video-build-jugable/</link>
       <pubDate>Sat, 22 Aug 2026 11:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/en/posts/7-cyberleek-octavo-video-build-jugable/</guid>
+      <guid>http://localhost:63340/en/posts/7-cyberleek-octavo-video-build-jugable/</guid>
       <description>New leaks show Jason in a strip club and driving at high speed. CyberLeek claims to have a playable build distributed across multiple locations worldwide, though part of this latest claim remains unconfirmed.</description>
     </item>
     <item>
       <title>The CyberLeek case escalates: Take-Two subpoenas Microsoft and Discord, and the hacker threatens to leak the full game</title>
-      <link>http://localhost:1313/en/posts/6-cyberleek-escala-demanda-amenaza/</link>
+      <link>http://localhost:63340/en/posts/6-cyberleek-escala-demanda-amenaza/</link>
       <pubDate>Fri, 21 Aug 2026 14:40:00 -0500</pubDate>
-      <guid>http://localhost:1313/en/posts/6-cyberleek-escala-demanda-amenaza/</guid>
+      <guid>http://localhost:63340/en/posts/6-cyberleek-escala-demanda-amenaza/</guid>
       <description>Take-Two filed legal subpoenas against Microsoft and Discord to identify CyberLeek. The group responded by threatening to leak all of GTA 6 if &amp;#34;something happens to them.&amp;#34;</description>
     </item>
     <item>
       <title>Jason and Lucia: who are the two protagonists of GTA 6</title>
-      <link>http://localhost:1313/en/posts/5-jason-lucia-personajes-gta6/</link>
+      <link>http://localhost:63340/en/posts/5-jason-lucia-personajes-gta6/</link>
       <pubDate>Thu, 20 Aug 2026 09:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/en/posts/5-jason-lucia-personajes-gta6/</guid>
+      <guid>http://localhost:63340/en/posts/5-jason-lucia-personajes-gta6/</guid>
       <description>Full profile of Jason Duval and Lucia Caminos, the protagonists of GTA 6: their past, their relationship, and why they break 25 years of series tradition.</description>
     </item>
     <item>
       <title>CyberLeek: who is the hacker behind the biggest GTA 6 leak since 2022</title>
-      <link>http://localhost:1313/en/posts/4-cyberleek-filtracion-gta6/</link>
+      <link>http://localhost:63340/en/posts/4-cyberleek-filtracion-gta6/</link>
       <pubDate>Wed, 19 Aug 2026 09:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/en/posts/4-cyberleek-filtracion-gta6/</guid>
+      <guid>http://localhost:63340/en/posts/4-cyberleek-filtracion-gta6/</guid>
       <description>A group calling itself CyberLeek leaked gameplay footage and the full map of GTA 6 days before the official Netflix presentation. Here is what we know.</description>
     </item>
     <item>
       <title>GTA 6 is coming only to PS5 and Xbox Series X|S: here is what we know about the PC version</title>
-      <link>http://localhost:1313/en/posts/3-gta6-version-pc/</link>
+      <link>http://localhost:63340/en/posts/3-gta6-version-pc/</link>
       <pubDate>Thu, 13 Aug 2026 09:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/en/posts/3-gta6-version-pc/</guid>
+      <guid>http://localhost:63340/en/posts/3-gta6-version-pc/</guid>
       <description>Rockstar confirmed GTA 6 launches on November 19, 2026 for consoles only. We break down what is known (and what is just a rumor) about the PC version.</description>
     </item>
     <item>
       <title>GTA 6 finally has an official release date: November 19, 2026</title>
-      <link>http://localhost:1313/en/posts/2-gta6-fecha-lanzamiento-confirmada/</link>
+      <link>http://localhost:63340/en/posts/2-gta6-fecha-lanzamiento-confirmada/</link>
       <pubDate>Wed, 12 Aug 2026 09:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/en/posts/2-gta6-fecha-lanzamiento-confirmada/</guid>
+      <guid>http://localhost:63340/en/posts/2-gta6-fecha-lanzamiento-confirmada/</guid>
       <description>Rockstar Games officially confirmed that Grand Theft Auto VI will launch on November 19, 2026 for PS5 and Xbox Series X|S.</description>
     </item>
     <item>
       <title>Everything we know about GTA 6 so far (and why it is not just rumors anymore)</title>
-      <link>http://localhost:1313/en/posts/1-todo-lo-que-sabemos-gta6/</link>
+      <link>http://localhost:63340/en/posts/1-todo-lo-que-sabemos-gta6/</link>
       <pubDate>Mon, 10 Aug 2026 10:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/en/posts/1-todo-lo-que-sabemos-gta6/</guid>
+      <guid>http://localhost:63340/en/posts/1-todo-lo-que-sabemos-gta6/</guid>
       <description>Release date, price, editions, protagonists and map: we cover everything officially confirmed about GTA 6 ahead of launch.</description>
     </item>
   </channel>
