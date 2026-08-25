@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>PC Requirements on GTA 6 News</title>
-    <link>http://localhost:63340/en/tags/pc-requirements/</link>
+    <link>http://localhost:1313/en/tags/pc-requirements/</link>
     <description>Recent content in PC Requirements on GTA 6 News</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Aug 2026 09:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:63340/en/tags/pc-requirements/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/pc-requirements/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GTA 6 is coming only to PS5 and Xbox Series X|S: here is what we know about the PC version</title>
-      <link>http://localhost:63340/en/posts/3-gta6-version-pc/</link>
+      <link>http://localhost:1313/en/posts/3-gta6-version-pc/</link>
       <pubDate>Thu, 13 Aug 2026 09:00:00 -0500</pubDate>
-      <guid>http://localhost:63340/en/posts/3-gta6-version-pc/</guid>
+      <guid>http://localhost:1313/en/posts/3-gta6-version-pc/</guid>
       <description>Rockstar confirmed GTA 6 launches on November 19, 2026 for consoles only. We break down what is known (and what is just a rumor) about the PC version.</description>
     </item>
   </channel>

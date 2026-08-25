@@ -2,122 +2,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on GTA 6 News</title>
-    <link>http://localhost:63340/en/tags/</link>
+    <link>http://localhost:1313/en/tags/</link>
     <description>Recent content in Tags on GTA 6 News</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 25 Aug 2026 16:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:63340/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CyberLeek</title>
-      <link>http://localhost:63340/en/tags/cyberleek/</link>
+      <link>http://localhost:1313/en/tags/cyberleek/</link>
       <pubDate>Tue, 25 Aug 2026 16:00:00 -0500</pubDate>
-      <guid>http://localhost:63340/en/tags/cyberleek/</guid>
+      <guid>http://localhost:1313/en/tags/cyberleek/</guid>
       <description></description>
     </item>
     <item>
       <title>GTA 6</title>
-      <link>http://localhost:63340/en/tags/gta-6/</link>
+      <link>http://localhost:1313/en/tags/gta-6/</link>
       <pubDate>Tue, 25 Aug 2026 16:00:00 -0500</pubDate>
-      <guid>http://localhost:63340/en/tags/gta-6/</guid>
+      <guid>http://localhost:1313/en/tags/gta-6/</guid>
       <description></description>
     </item>
     <item>
       <title>Leak</title>
-      <link>http://localhost:63340/en/tags/leak/</link>
+      <link>http://localhost:1313/en/tags/leak/</link>
       <pubDate>Tue, 25 Aug 2026 16:00:00 -0500</pubDate>
-      <guid>http://localhost:63340/en/tags/leak/</guid>
+      <guid>http://localhost:1313/en/tags/leak/</guid>
       <description></description>
     </item>
     <item>
       <title>Take-Two</title>
-      <link>http://localhost:63340/en/tags/take-two/</link>
+      <link>http://localhost:1313/en/tags/take-two/</link>
       <pubDate>Tue, 25 Aug 2026 16:00:00 -0500</pubDate>
-      <guid>http://localhost:63340/en/tags/take-two/</guid>
+      <guid>http://localhost:1313/en/tags/take-two/</guid>
       <description></description>
     </item>
     <item>
       <title>Cryptocurrency</title>
-      <link>http://localhost:63340/en/tags/cryptocurrency/</link>
+      <link>http://localhost:1313/en/tags/cryptocurrency/</link>
       <pubDate>Sun, 23 Aug 2026 19:00:00 -0500</pubDate>
-      <guid>http://localhost:63340/en/tags/cryptocurrency/</guid>
+      <guid>http://localhost:1313/en/tags/cryptocurrency/</guid>
       <description></description>
     </item>
     <item>
       <title>Rockstar Games</title>
-      <link>http://localhost:63340/en/tags/rockstar-games/</link>
+      <link>http://localhost:1313/en/tags/rockstar-games/</link>
       <pubDate>Sat, 22 Aug 2026 11:00:00 -0500</pubDate>
-      <guid>http://localhost:63340/en/tags/rockstar-games/</guid>
+      <guid>http://localhost:1313/en/tags/rockstar-games/</guid>
       <description></description>
     </item>
     <item>
       <title>Security</title>
-      <link>http://localhost:63340/en/tags/security/</link>
+      <link>http://localhost:1313/en/tags/security/</link>
       <pubDate>Fri, 21 Aug 2026 14:40:00 -0500</pubDate>
-      <guid>http://localhost:63340/en/tags/security/</guid>
+      <guid>http://localhost:1313/en/tags/security/</guid>
       <description></description>
     </item>
     <item>
       <title>Characters</title>
-      <link>http://localhost:63340/en/tags/characters/</link>
+      <link>http://localhost:1313/en/tags/characters/</link>
       <pubDate>Thu, 20 Aug 2026 09:00:00 -0500</pubDate>
-      <guid>http://localhost:63340/en/tags/characters/</guid>
+      <guid>http://localhost:1313/en/tags/characters/</guid>
       <description></description>
     </item>
     <item>
       <title>Jason Duval</title>
-      <link>http://localhost:63340/en/tags/jason-duval/</link>
+      <link>http://localhost:1313/en/tags/jason-duval/</link>
       <pubDate>Thu, 20 Aug 2026 09:00:00 -0500</pubDate>
-      <guid>http://localhost:63340/en/tags/jason-duval/</guid>
+      <guid>http://localhost:1313/en/tags/jason-duval/</guid>
       <description></description>
     </item>
     <item>
       <title>Lucia Caminos</title>
-      <link>http://localhost:63340/en/tags/lucia-caminos/</link>
+      <link>http://localhost:1313/en/tags/lucia-caminos/</link>
       <pubDate>Thu, 20 Aug 2026 09:00:00 -0500</pubDate>
-      <guid>http://localhost:63340/en/tags/lucia-caminos/</guid>
+      <guid>http://localhost:1313/en/tags/lucia-caminos/</guid>
       <description></description>
     </item>
     <item>
       <title>PC</title>
-      <link>http://localhost:63340/en/tags/pc/</link>
+      <link>http://localhost:1313/en/tags/pc/</link>
       <pubDate>Thu, 13 Aug 2026 09:00:00 -0500</pubDate>
-      <guid>http://localhost:63340/en/tags/pc/</guid>
+      <guid>http://localhost:1313/en/tags/pc/</guid>
       <description></description>
     </item>
     <item>
       <title>PC Requirements</title>
-      <link>http://localhost:63340/en/tags/pc-requirements/</link>
+      <link>http://localhost:1313/en/tags/pc-requirements/</link>
       <pubDate>Thu, 13 Aug 2026 09:00:00 -0500</pubDate>
-      <guid>http://localhost:63340/en/tags/pc-requirements/</guid>
+      <guid>http://localhost:1313/en/tags/pc-requirements/</guid>
       <description></description>
     </item>
     <item>
       <title>Release Date</title>
-      <link>http://localhost:63340/en/tags/release-date/</link>
+      <link>http://localhost:1313/en/tags/release-date/</link>
       <pubDate>Wed, 12 Aug 2026 09:00:00 -0500</pubDate>
-      <guid>http://localhost:63340/en/tags/release-date/</guid>
+      <guid>http://localhost:1313/en/tags/release-date/</guid>
       <description></description>
     </item>
     <item>
       <title>Vice City</title>
-      <link>http://localhost:63340/en/tags/vice-city/</link>
+      <link>http://localhost:1313/en/tags/vice-city/</link>
       <pubDate>Wed, 12 Aug 2026 09:00:00 -0500</pubDate>
-      <guid>http://localhost:63340/en/tags/vice-city/</guid>
+      <guid>http://localhost:1313/en/tags/vice-city/</guid>
       <description></description>
     </item>
     <item>
       <title>Guide</title>
-      <link>http://localhost:63340/en/tags/guide/</link>
+      <link>http://localhost:1313/en/tags/guide/</link>
       <pubDate>Mon, 10 Aug 2026 10:00:00 -0500</pubDate>
-      <guid>http://localhost:63340/en/tags/guide/</guid>
+      <guid>http://localhost:1313/en/tags/guide/</guid>
       <description></description>
     </item>
     <item>
       <title>Leonida</title>
-      <link>http://localhost:63340/en/tags/leonida/</link>
+      <link>http://localhost:1313/en/tags/leonida/</link>
       <pubDate>Mon, 10 Aug 2026 10:00:00 -0500</pubDate>
-      <guid>http://localhost:63340/en/tags/leonida/</guid>
+      <guid>http://localhost:1313/en/tags/leonida/</guid>
       <description></description>
     </item>
   </channel>

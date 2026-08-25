@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Noticias on GTA 6 Noticias</title>
-    <link>http://localhost:63340/categories/noticias/</link>
+    <link>http://localhost:1313/categories/noticias/</link>
     <description>Recent content in Noticias on GTA 6 Noticias</description>
     <generator>Hugo</generator>
     <language>es-es</language>
     <lastBuildDate>Tue, 25 Aug 2026 16:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:63340/categories/noticias/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/noticias/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nueva oleada de filtraciones de GTA 6: playa, tienda de videojuegos y a solo dos días del evento oficial</title>
-      <link>http://localhost:63340/posts/9-cyberleek-playa-tienda-nueva-oleada/</link>
+      <link>http://localhost:1313/posts/9-cyberleek-playa-tienda-nueva-oleada/</link>
       <pubDate>Tue, 25 Aug 2026 16:00:00 -0500</pubDate>
-      <guid>http://localhost:63340/posts/9-cyberleek-playa-tienda-nueva-oleada/</guid>
+      <guid>http://localhost:1313/posts/9-cyberleek-playa-tienda-nueva-oleada/</guid>
       <description>CyberLeek publicó tres clips más el 25 de agosto: Jason en bicicleta por la playa, una tienda ficticia de videojuegos, y un tercer video con contenido explícito que generó controversia aparte.</description>
     </item>
     <item>
       <title>El lado oscuro de CyberLeek: su criptomoneda se dispara mientras el movimiento que citaba lo desconoce</title>
-      <link>http://localhost:63340/posts/8-cyberleek-token-cripto-dudas/</link>
+      <link>http://localhost:1313/posts/8-cyberleek-token-cripto-dudas/</link>
       <pubDate>Sun, 23 Aug 2026 19:00:00 -0500</pubDate>
-      <guid>http://localhost:63340/posts/8-cyberleek-token-cripto-dudas/</guid>
+      <guid>http://localhost:1313/posts/8-cyberleek-token-cripto-dudas/</guid>
       <description>El token CYBERLEEK subió más de 14 veces en 24 horas mientras Stop Killing Games, el movimiento que el filtrador citaba como inspiración, se desmarcó públicamente de sus acciones.</description>
     </item>
     <item>
       <title>Van 8 videos filtrados de GTA 6 y CyberLeek asegura tener una build jugable completa</title>
-      <link>http://localhost:63340/posts/7-cyberleek-octavo-video-build-jugable/</link>
+      <link>http://localhost:1313/posts/7-cyberleek-octavo-video-build-jugable/</link>
       <pubDate>Sat, 22 Aug 2026 11:00:00 -0500</pubDate>
-      <guid>http://localhost:63340/posts/7-cyberleek-octavo-video-build-jugable/</guid>
+      <guid>http://localhost:1313/posts/7-cyberleek-octavo-video-build-jugable/</guid>
       <description>Nuevas filtraciones muestran a Jason en un club de striptease y conduciendo a alta velocidad. CyberLeek dice tener una versión jugable distribuida en varios lugares del mundo, aunque parte de esta última afirmación no está confirmada.</description>
     </item>
     <item>
       <title>El caso CyberLeek escala: Take-Two demanda a Microsoft y Discord, y el hacker amenaza con filtrar todo el juego</title>
-      <link>http://localhost:63340/posts/6-cyberleek-escala-demanda-amenaza/</link>
+      <link>http://localhost:1313/posts/6-cyberleek-escala-demanda-amenaza/</link>
       <pubDate>Fri, 21 Aug 2026 14:40:00 -0500</pubDate>
-      <guid>http://localhost:63340/posts/6-cyberleek-escala-demanda-amenaza/</guid>
+      <guid>http://localhost:1313/posts/6-cyberleek-escala-demanda-amenaza/</guid>
       <description>Take-Two presentó citaciones judiciales contra Microsoft y Discord para identificar a CyberLeek. El grupo respondió amenazando con filtrar GTA 6 completo si &amp;#34;le pasa algo&amp;#34;.</description>
     </item>
     <item>
       <title>CyberLeek: quién es el hacker detrás de la mayor filtración de GTA 6 desde 2022</title>
-      <link>http://localhost:63340/posts/4-cyberleek-filtracion-gta6/</link>
+      <link>http://localhost:1313/posts/4-cyberleek-filtracion-gta6/</link>
       <pubDate>Wed, 19 Aug 2026 09:00:00 -0500</pubDate>
-      <guid>http://localhost:63340/posts/4-cyberleek-filtracion-gta6/</guid>
+      <guid>http://localhost:1313/posts/4-cyberleek-filtracion-gta6/</guid>
       <description>Un grupo que se hace llamar CyberLeek filtró videos de gameplay y el mapa completo de GTA 6 días antes de la presentación oficial en Netflix. Esto es lo que se sabe.</description>
     </item>
     <item>
       <title>GTA 6 solo llegará a PS5 y Xbox Series X|S: esto sabemos sobre la versión de PC</title>
-      <link>http://localhost:63340/posts/3-gta6-version-pc/</link>
+      <link>http://localhost:1313/posts/3-gta6-version-pc/</link>
       <pubDate>Thu, 13 Aug 2026 09:00:00 -0500</pubDate>
-      <guid>http://localhost:63340/posts/3-gta6-version-pc/</guid>
+      <guid>http://localhost:1313/posts/3-gta6-version-pc/</guid>
       <description>Rockstar confirmó que GTA 6 llega el 19 de noviembre de 2026 solo a consolas. Repasamos qué se sabe (y qué es solo rumor) sobre la versión de PC.</description>
     </item>
     <item>
       <title>GTA 6 ya tiene fecha de lanzamiento oficial: 19 de noviembre de 2026</title>
-      <link>http://localhost:63340/posts/2-gta6-fecha-lanzamiento-confirmada/</link>
+      <link>http://localhost:1313/posts/2-gta6-fecha-lanzamiento-confirmada/</link>
       <pubDate>Wed, 12 Aug 2026 09:00:00 -0500</pubDate>
-      <guid>http://localhost:63340/posts/2-gta6-fecha-lanzamiento-confirmada/</guid>
+      <guid>http://localhost:1313/posts/2-gta6-fecha-lanzamiento-confirmada/</guid>
       <description>Rockstar Games confirmó oficialmente que Grand Theft Auto VI llegará el 19 de noviembre de 2026 a PS5 y Xbox Series X|S.</description>
     </item>
   </channel>

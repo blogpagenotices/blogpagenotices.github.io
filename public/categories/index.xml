@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on GTA 6 Noticias</title>
-    <link>http://localhost:63340/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on GTA 6 Noticias</description>
     <generator>Hugo</generator>
     <language>es-es</language>
     <lastBuildDate>Tue, 25 Aug 2026 16:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:63340/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Noticias</title>
-      <link>http://localhost:63340/categories/noticias/</link>
+      <link>http://localhost:1313/categories/noticias/</link>
       <pubDate>Tue, 25 Aug 2026 16:00:00 -0500</pubDate>
-      <guid>http://localhost:63340/categories/noticias/</guid>
+      <guid>http://localhost:1313/categories/noticias/</guid>
       <description></description>
     </item>
     <item>
       <title>Personajes</title>
-      <link>http://localhost:63340/categories/personajes/</link>
+      <link>http://localhost:1313/categories/personajes/</link>
       <pubDate>Thu, 20 Aug 2026 09:00:00 -0500</pubDate>
-      <guid>http://localhost:63340/categories/personajes/</guid>
+      <guid>http://localhost:1313/categories/personajes/</guid>
       <description></description>
     </item>
     <item>
       <title>Guías</title>
-      <link>http://localhost:63340/categories/gu%C3%ADas/</link>
+      <link>http://localhost:1313/categories/gu%C3%ADas/</link>
       <pubDate>Mon, 10 Aug 2026 10:00:00 -0500</pubDate>
-      <guid>http://localhost:63340/categories/gu%C3%ADas/</guid>
+      <guid>http://localhost:1313/categories/gu%C3%ADas/</guid>
       <description></description>
     </item>
   </channel>

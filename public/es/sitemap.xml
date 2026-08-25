@@ -2,349 +2,349 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:63340/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2026-08-25T16:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
-                href="http://localhost:63340/categories/"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:63340/en/categories/"
+                href="http://localhost:1313/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:63340/tags/cyberleek/</loc>
+    <loc>http://localhost:1313/tags/cyberleek/</loc>
     <lastmod>2026-08-25T16:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
-                href="http://localhost:63340/tags/cyberleek/"
+                href="http://localhost:1313/tags/cyberleek/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:63340/en/tags/cyberleek/"
+                href="http://localhost:1313/en/tags/cyberleek/"
                 />
   </url><url>
-    <loc>http://localhost:63340/tags/filtraci%C3%B3n/</loc>
+    <loc>http://localhost:1313/tags/filtraci%C3%B3n/</loc>
     <lastmod>2026-08-25T16:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:63340/tags/gta-6/</loc>
+    <loc>http://localhost:1313/tags/gta-6/</loc>
     <lastmod>2026-08-25T16:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
-                href="http://localhost:63340/tags/gta-6/"
+                href="http://localhost:1313/tags/gta-6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:63340/en/tags/gta-6/"
+                href="http://localhost:1313/en/tags/gta-6/"
                 />
   </url><url>
-    <loc>http://localhost:63340/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-08-25T16:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
-                href="http://localhost:63340/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:63340/en/"
+                href="http://localhost:1313/en/"
                 />
   </url><url>
-    <loc>http://localhost:63340/categories/noticias/</loc>
+    <loc>http://localhost:1313/categories/noticias/</loc>
     <lastmod>2026-08-25T16:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:63340/posts/9-cyberleek-playa-tienda-nueva-oleada/</loc>
-    <lastmod>2026-08-25T16:00:00-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-es"
-                href="http://localhost:63340/posts/9-cyberleek-playa-tienda-nueva-oleada/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:63340/en/posts/9-cyberleek-playa-tienda-nueva-oleada/"
-                />
-  </url><url>
-    <loc>http://localhost:63340/posts/</loc>
+    <loc>http://localhost:1313/posts/9-cyberleek-playa-tienda-nueva-oleada/</loc>
     <lastmod>2026-08-25T16:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
-                href="http://localhost:63340/posts/"
+                href="http://localhost:1313/posts/9-cyberleek-playa-tienda-nueva-oleada/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:63340/en/posts/"
+                href="http://localhost:1313/en/posts/9-cyberleek-playa-tienda-nueva-oleada/"
                 />
   </url><url>
-    <loc>http://localhost:63340/tags/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2026-08-25T16:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
-                href="http://localhost:63340/tags/"
+                href="http://localhost:1313/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:63340/en/tags/"
+                href="http://localhost:1313/en/posts/"
                 />
   </url><url>
-    <loc>http://localhost:63340/tags/take-two/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-08-25T16:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
-                href="http://localhost:63340/tags/take-two/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:63340/en/tags/take-two/"
+                href="http://localhost:1313/en/tags/"
                 />
   </url><url>
-    <loc>http://localhost:63340/tags/criptomoneda/</loc>
+    <loc>http://localhost:1313/tags/take-two/</loc>
+    <lastmod>2026-08-25T16:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/tags/take-two/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/take-two/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/criptomoneda/</loc>
     <lastmod>2026-08-23T19:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:63340/posts/8-cyberleek-token-cripto-dudas/</loc>
+    <loc>http://localhost:1313/posts/8-cyberleek-token-cripto-dudas/</loc>
     <lastmod>2026-08-23T19:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
-                href="http://localhost:63340/posts/8-cyberleek-token-cripto-dudas/"
+                href="http://localhost:1313/posts/8-cyberleek-token-cripto-dudas/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:63340/en/posts/8-cyberleek-token-cripto-dudas/"
+                href="http://localhost:1313/en/posts/8-cyberleek-token-cripto-dudas/"
                 />
   </url><url>
-    <loc>http://localhost:63340/tags/rockstar-games/</loc>
+    <loc>http://localhost:1313/tags/rockstar-games/</loc>
     <lastmod>2026-08-22T11:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
-                href="http://localhost:63340/tags/rockstar-games/"
+                href="http://localhost:1313/tags/rockstar-games/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:63340/en/tags/rockstar-games/"
+                href="http://localhost:1313/en/tags/rockstar-games/"
                 />
   </url><url>
-    <loc>http://localhost:63340/posts/7-cyberleek-octavo-video-build-jugable/</loc>
+    <loc>http://localhost:1313/posts/7-cyberleek-octavo-video-build-jugable/</loc>
     <lastmod>2026-08-22T11:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
-                href="http://localhost:63340/posts/7-cyberleek-octavo-video-build-jugable/"
+                href="http://localhost:1313/posts/7-cyberleek-octavo-video-build-jugable/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:63340/en/posts/7-cyberleek-octavo-video-build-jugable/"
+                href="http://localhost:1313/en/posts/7-cyberleek-octavo-video-build-jugable/"
                 />
   </url><url>
-    <loc>http://localhost:63340/posts/6-cyberleek-escala-demanda-amenaza/</loc>
+    <loc>http://localhost:1313/posts/6-cyberleek-escala-demanda-amenaza/</loc>
     <lastmod>2026-08-21T14:40:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
-                href="http://localhost:63340/posts/6-cyberleek-escala-demanda-amenaza/"
+                href="http://localhost:1313/posts/6-cyberleek-escala-demanda-amenaza/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:63340/en/posts/6-cyberleek-escala-demanda-amenaza/"
+                href="http://localhost:1313/en/posts/6-cyberleek-escala-demanda-amenaza/"
                 />
   </url><url>
-    <loc>http://localhost:63340/tags/seguridad/</loc>
+    <loc>http://localhost:1313/tags/seguridad/</loc>
     <lastmod>2026-08-21T14:40:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:63340/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2026-08-20T09:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
-                href="http://localhost:63340/contact/"
+                href="http://localhost:1313/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:63340/en/contact/"
+                href="http://localhost:1313/en/contact/"
                 />
   </url><url>
-    <loc>http://localhost:63340/tags/jason-duval/</loc>
+    <loc>http://localhost:1313/tags/jason-duval/</loc>
     <lastmod>2026-08-20T09:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
-                href="http://localhost:63340/tags/jason-duval/"
+                href="http://localhost:1313/tags/jason-duval/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:63340/en/tags/jason-duval/"
+                href="http://localhost:1313/en/tags/jason-duval/"
                 />
   </url><url>
-    <loc>http://localhost:63340/posts/5-jason-lucia-personajes-gta6/</loc>
+    <loc>http://localhost:1313/posts/5-jason-lucia-personajes-gta6/</loc>
     <lastmod>2026-08-20T09:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
-                href="http://localhost:63340/posts/5-jason-lucia-personajes-gta6/"
+                href="http://localhost:1313/posts/5-jason-lucia-personajes-gta6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:63340/en/posts/5-jason-lucia-personajes-gta6/"
+                href="http://localhost:1313/en/posts/5-jason-lucia-personajes-gta6/"
                 />
   </url><url>
-    <loc>http://localhost:63340/tags/luc%C3%ADa-caminos/</loc>
+    <loc>http://localhost:1313/tags/luc%C3%ADa-caminos/</loc>
     <lastmod>2026-08-20T09:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:63340/categories/personajes/</loc>
+    <loc>http://localhost:1313/categories/personajes/</loc>
     <lastmod>2026-08-20T09:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:63340/tags/personajes/</loc>
+    <loc>http://localhost:1313/tags/personajes/</loc>
     <lastmod>2026-08-20T09:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:63340/privacy/</loc>
+    <loc>http://localhost:1313/privacy/</loc>
     <lastmod>2026-08-20T09:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
-                href="http://localhost:63340/privacy/"
+                href="http://localhost:1313/privacy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:63340/en/privacy/"
+                href="http://localhost:1313/en/privacy/"
                 />
   </url><url>
-    <loc>http://localhost:63340/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2026-08-20T09:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
-                href="http://localhost:63340/about/"
+                href="http://localhost:1313/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:63340/en/about/"
+                href="http://localhost:1313/en/about/"
                 />
   </url><url>
-    <loc>http://localhost:63340/posts/4-cyberleek-filtracion-gta6/</loc>
+    <loc>http://localhost:1313/posts/4-cyberleek-filtracion-gta6/</loc>
     <lastmod>2026-08-19T09:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
-                href="http://localhost:63340/posts/4-cyberleek-filtracion-gta6/"
+                href="http://localhost:1313/posts/4-cyberleek-filtracion-gta6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:63340/en/posts/4-cyberleek-filtracion-gta6/"
+                href="http://localhost:1313/en/posts/4-cyberleek-filtracion-gta6/"
                 />
   </url><url>
-    <loc>http://localhost:63340/posts/3-gta6-version-pc/</loc>
+    <loc>http://localhost:1313/posts/3-gta6-version-pc/</loc>
     <lastmod>2026-08-13T09:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
-                href="http://localhost:63340/posts/3-gta6-version-pc/"
+                href="http://localhost:1313/posts/3-gta6-version-pc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:63340/en/posts/3-gta6-version-pc/"
+                href="http://localhost:1313/en/posts/3-gta6-version-pc/"
                 />
   </url><url>
-    <loc>http://localhost:63340/tags/pc/</loc>
+    <loc>http://localhost:1313/tags/pc/</loc>
     <lastmod>2026-08-13T09:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
-                href="http://localhost:63340/tags/pc/"
+                href="http://localhost:1313/tags/pc/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:63340/en/tags/pc/"
+                href="http://localhost:1313/en/tags/pc/"
                 />
   </url><url>
-    <loc>http://localhost:63340/tags/requisitos-pc/</loc>
+    <loc>http://localhost:1313/tags/requisitos-pc/</loc>
     <lastmod>2026-08-13T09:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:63340/tags/fecha-de-lanzamiento/</loc>
+    <loc>http://localhost:1313/tags/fecha-de-lanzamiento/</loc>
     <lastmod>2026-08-12T09:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:63340/posts/2-gta6-fecha-lanzamiento-confirmada/</loc>
-    <lastmod>2026-08-12T09:00:00-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-es"
-                href="http://localhost:63340/posts/2-gta6-fecha-lanzamiento-confirmada/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:63340/en/posts/2-gta6-fecha-lanzamiento-confirmada/"
-                />
-  </url><url>
-    <loc>http://localhost:63340/tags/vice-city/</loc>
+    <loc>http://localhost:1313/posts/2-gta6-fecha-lanzamiento-confirmada/</loc>
     <lastmod>2026-08-12T09:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
-                href="http://localhost:63340/tags/vice-city/"
+                href="http://localhost:1313/posts/2-gta6-fecha-lanzamiento-confirmada/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:63340/en/tags/vice-city/"
+                href="http://localhost:1313/en/posts/2-gta6-fecha-lanzamiento-confirmada/"
                 />
   </url><url>
-    <loc>http://localhost:63340/tags/gu%C3%ADa/</loc>
+    <loc>http://localhost:1313/tags/vice-city/</loc>
+    <lastmod>2026-08-12T09:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/tags/vice-city/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/vice-city/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/gu%C3%ADa/</loc>
     <lastmod>2026-08-10T10:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:63340/categories/gu%C3%ADas/</loc>
+    <loc>http://localhost:1313/categories/gu%C3%ADas/</loc>
     <lastmod>2026-08-10T10:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:63340/tags/leonida/</loc>
+    <loc>http://localhost:1313/tags/leonida/</loc>
     <lastmod>2026-08-10T10:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
-                href="http://localhost:63340/tags/leonida/"
+                href="http://localhost:1313/tags/leonida/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:63340/en/tags/leonida/"
+                href="http://localhost:1313/en/tags/leonida/"
                 />
   </url><url>
-    <loc>http://localhost:63340/posts/1-todo-lo-que-sabemos-gta6/</loc>
+    <loc>http://localhost:1313/posts/1-todo-lo-que-sabemos-gta6/</loc>
     <lastmod>2026-08-10T10:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
-                href="http://localhost:63340/posts/1-todo-lo-que-sabemos-gta6/"
+                href="http://localhost:1313/posts/1-todo-lo-que-sabemos-gta6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:63340/en/posts/1-todo-lo-que-sabemos-gta6/"
+                href="http://localhost:1313/en/posts/1-todo-lo-que-sabemos-gta6/"
                 />
   </url>
 </urlset>
