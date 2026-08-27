@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/en/categories/</loc>
-    <lastmod>2026-08-25T16:00:00-05:00</lastmod>
+    <lastmod>2026-08-26T20:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/tags/cyberleek/</loc>
-    <lastmod>2026-08-25T16:00:00-05:00</lastmod>
+    <lastmod>2026-08-26T20:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/tags/gta-6/</loc>
-    <lastmod>2026-08-25T16:00:00-05:00</lastmod>
+    <lastmod>2026-08-26T20:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
@@ -42,7 +42,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/</loc>
-    <lastmod>2026-08-25T16:00:00-05:00</lastmod>
+    <lastmod>2026-08-26T20:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
@@ -55,7 +55,62 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/tags/leak/</loc>
-    <lastmod>2026-08-25T16:00:00-05:00</lastmod>
+    <lastmod>2026-08-26T20:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/categories/news/</loc>
+    <lastmod>2026-08-26T20:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/posts/</loc>
+    <lastmod>2026-08-26T20:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/posts/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/posts/10-rockstar-rompe-silencio-filtraciones/</loc>
+    <lastmod>2026-08-26T20:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/posts/10-rockstar-rompe-silencio-filtraciones/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/posts/10-rockstar-rompe-silencio-filtraciones/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/tags/rockstar-games/</loc>
+    <lastmod>2026-08-26T20:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/tags/rockstar-games/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/rockstar-games/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/tags/</loc>
+    <lastmod>2026-08-26T20:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/"
+                />
   </url><url>
     <loc>http://localhost:1313/en/posts/9-cyberleek-playa-tienda-nueva-oleada/</loc>
     <lastmod>2026-08-25T16:00:00-05:00</lastmod>
@@ -68,35 +123,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/en/posts/9-cyberleek-playa-tienda-nueva-oleada/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/categories/news/</loc>
-    <lastmod>2026-08-25T16:00:00-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/posts/</loc>
-    <lastmod>2026-08-25T16:00:00-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-es"
-                href="http://localhost:1313/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/posts/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
-    <lastmod>2026-08-25T16:00:00-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-es"
-                href="http://localhost:1313/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/tags/take-two/</loc>
@@ -139,19 +165,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/en/posts/7-cyberleek-octavo-video-build-jugable/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/tags/rockstar-games/</loc>
-    <lastmod>2026-08-22T11:00:00-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-es"
-                href="http://localhost:1313/tags/rockstar-games/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/rockstar-games/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/tags/security/</loc>
