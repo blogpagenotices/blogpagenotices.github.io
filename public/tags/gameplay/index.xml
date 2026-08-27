@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Gameplay on GTA 6 Noticias</title>
+    <link>http://localhost:1313/tags/gameplay/</link>
+    <description>Recent content in Gameplay on GTA 6 Noticias</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 27 Aug 2026 16:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/gameplay/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Así fue el Extended Look de GTA 6: Jason, Lucía y una pelea que cambia el combate de la saga</title>
+      <link>http://localhost:1313/posts/11-extended-look-resumen-gameplay/</link>
+      <pubDate>Thu, 27 Aug 2026 16:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/11-extended-look-resumen-gameplay/</guid>
+      <description>Rockstar mostró 26 minutos de gameplay real de GTA 6 en Netflix. Repasamos escena por escena lo que se vio: un edificio, un tal Boobie, y un sistema de combate que recuerda a Max Payne 3.</description>
+    </item>
+  </channel>
+</rss>
