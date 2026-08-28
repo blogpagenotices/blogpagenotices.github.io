@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Netflix on GTA 6 Noticias</title>
-    <link>http://localhost:1313/tags/netflix/</link>
-    <description>Recent content in Netflix on GTA 6 Noticias</description>
+    <title>Industria on GTA 6 Noticias</title>
+    <link>http://localhost:1313/tags/industria/</link>
+    <description>Recent content in Industria on GTA 6 Noticias</description>
     <generator>Hugo</generator>
     <language>es-es</language>
     <lastBuildDate>Thu, 27 Aug 2026 18:30:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/netflix/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/industria/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Por qué el estreno de GTA 6 en Netflix es más importante de lo que parece</title>
       <link>http://localhost:1313/posts/12-netflix-alianza-historica/</link>
       <pubDate>Thu, 27 Aug 2026 18:30:00 -0500</pubDate>
       <guid>http://localhost:1313/posts/12-netflix-alianza-historica/</guid>
       <description>Netflix transmitió en exclusiva mundial el nuevo material de GTA 6, seis horas antes que en YouTube. Analizamos qué significa esta alianza para el futuro de los videojuegos y el streaming.</description>
-    </item>
-    <item>
-      <title>Así fue el Extended Look de GTA 6: Jason, Lucía y una pelea que cambia el combate de la saga</title>
-      <link>http://localhost:1313/posts/11-extended-look-resumen-gameplay/</link>
-      <pubDate>Thu, 27 Aug 2026 16:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/posts/11-extended-look-resumen-gameplay/</guid>
-      <description>Rockstar mostró 26 minutos de gameplay real de GTA 6 en Netflix. Repasamos escena por escena lo que se vio: un edificio, un tal Boobie, y un sistema de combate que recuerda a Max Payne 3.</description>
     </item>
   </channel>
 </rss>

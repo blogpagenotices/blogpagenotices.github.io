@@ -9,8 +9,8 @@ categories = ['Guías']
 
 [cover]
   image = 'images/gta6-combate.jpg'
-  alt = 'Silueta de una persona corriendo bajo luces de neón por la noche'
-  caption = ''
+  alt = 'Captura oficial de GTA 6 mostrando una confrontación armada en un interior'
+  caption = 'Captura oficial cortesía de Rockstar Games'
   relative = false
   hidden = false
 +++

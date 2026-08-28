@@ -9,8 +9,8 @@ categories = ['News']
 
 [cover]
   image = 'images/netflix-gta6.jpg'
-  alt = 'TV remote control in front of a screen with neon lights'
-  caption = ''
+  alt = 'Official GTA 6 screenshot featuring the Vice City sign at sunset'
+  caption = 'Official screenshot courtesy of Rockstar Games'
   relative = false
   hidden = false
 +++

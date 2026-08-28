@@ -9,8 +9,8 @@ categories = ['Guías']
 
 [cover]
   image = 'images/gta6-detalles.jpg'
-  alt = 'Ropa colorida iluminada con luces de neón en una tienda nocturna'
-  caption = ''
+  alt = 'Captura oficial de GTA 6 con dos personajes sobre un vehículo con grafiti'
+  caption = 'Captura oficial cortesía de Rockstar Games'
   relative = false
   hidden = false
 +++

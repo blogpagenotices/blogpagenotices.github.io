@@ -9,8 +9,8 @@ categories = ['Noticias']
 
 [cover]
   image = 'images/gta6-extended-look.jpg'
-  alt = 'Sala oscura con una pantalla de televisión encendida mostrando luces de ciudad'
-  caption = ''
+  alt = 'Captura oficial de GTA 6 con dos personajes en primer plano'
+  caption = 'Captura oficial cortesía de Rockstar Games'
   relative = false
   hidden = false
 +++

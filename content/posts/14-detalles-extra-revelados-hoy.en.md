@@ -9,8 +9,8 @@ categories = ['Guides']
 
 [cover]
   image = 'images/gta6-detalles.jpg'
-  alt = 'Colorful clothing lit by neon lights in a nighttime store'
-  caption = ''
+  alt = 'Official GTA 6 screenshot showing two characters on a graffiti-covered vehicle'
+  caption = 'Official screenshot courtesy of Rockstar Games'
   relative = false
   hidden = false
 +++

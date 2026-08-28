@@ -9,8 +9,8 @@ categories = ['News']
 
 [cover]
   image = 'images/gta6-extended-look.jpg'
-  alt = 'Dark room with a TV screen showing city lights'
-  caption = ''
+  alt = 'Official GTA 6 screenshot featuring two characters in close-up'
+  caption = 'Official screenshot courtesy of Rockstar Games'
   relative = false
   hidden = false
 +++

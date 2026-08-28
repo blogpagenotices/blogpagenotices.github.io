@@ -9,8 +9,8 @@ categories = ['Noticias']
 
 [cover]
   image = 'images/netflix-gta6.jpg'
-  alt = 'Control remoto de televisión frente a una pantalla con luces de neón'
-  caption = ''
+  alt = 'Captura oficial de GTA 6 con el letrero de Vice City al atardecer'
+  caption = 'Captura oficial cortesía de Rockstar Games'
   relative = false
   hidden = false
 +++
