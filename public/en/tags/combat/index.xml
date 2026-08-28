@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Guides on GTA 6 News</title>
-    <link>http://localhost:1313/en/categories/guides/</link>
-    <description>Recent content in Guides on GTA 6 News</description>
+    <title>Combat on GTA 6 News</title>
+    <link>http://localhost:1313/en/tags/combat/</link>
+    <description>Recent content in Combat on GTA 6 News</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 27 Aug 2026 21:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/categories/guides/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/combat/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GTA 6&#39;s combat looks a lot like Max Payne 3, and that could change the series forever</title>
       <link>http://localhost:1313/en/posts/13-combate-max-payne-analisis/</link>
       <pubDate>Thu, 27 Aug 2026 21:00:00 -0500</pubDate>
       <guid>http://localhost:1313/en/posts/13-combate-max-payne-analisis/</guid>
       <description>We break down why the combat system shown in GTA 6&amp;#39;s Extended Look, with tactical slow-motion and more precise shooting, feels so much like Max Payne 3.</description>
-    </item>
-    <item>
-      <title>Everything we know about GTA 6 so far (and why it is not just rumors anymore)</title>
-      <link>http://localhost:1313/en/posts/1-todo-lo-que-sabemos-gta6/</link>
-      <pubDate>Mon, 10 Aug 2026 10:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/en/posts/1-todo-lo-que-sabemos-gta6/</guid>
-      <description>Release date, price, editions, protagonists and map: we cover everything officially confirmed about GTA 6 ahead of launch.</description>
     </item>
   </channel>
 </rss>

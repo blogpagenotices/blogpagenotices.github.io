@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2026-08-27T18:30:00-05:00</lastmod>
+    <lastmod>2026-08-27T21:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
@@ -15,8 +15,37 @@
                 href="http://localhost:1313/en/categories/"
                 />
   </url><url>
+    <loc>http://localhost:1313/tags/combate/</loc>
+    <lastmod>2026-08-27T21:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/13-combate-max-payne-analisis/</loc>
+    <lastmod>2026-08-27T21:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/posts/13-combate-max-payne-analisis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/posts/13-combate-max-payne-analisis/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/gameplay/</loc>
+    <lastmod>2026-08-27T21:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/tags/gameplay/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/gameplay/"
+                />
+  </url><url>
     <loc>http://localhost:1313/tags/gta-6/</loc>
-    <lastmod>2026-08-27T18:30:00-05:00</lastmod>
+    <lastmod>2026-08-27T21:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
@@ -29,7 +58,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-08-27T18:30:00-05:00</lastmod>
+    <lastmod>2026-08-27T21:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
@@ -39,6 +68,48 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/en/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/categories/gu%C3%ADas/</loc>
+    <lastmod>2026-08-27T21:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-08-27T21:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/posts/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/rockstar-games/</loc>
+    <lastmod>2026-08-27T21:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/tags/rockstar-games/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/rockstar-games/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-08-27T21:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/industria/</loc>
@@ -73,45 +144,6 @@
                 href="http://localhost:1313/en/posts/12-netflix-alianza-historica/"
                 />
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-08-27T18:30:00-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-es"
-                href="http://localhost:1313/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/posts/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tags/rockstar-games/</loc>
-    <lastmod>2026-08-27T18:30:00-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-es"
-                href="http://localhost:1313/tags/rockstar-games/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/rockstar-games/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-08-27T18:30:00-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-es"
-                href="http://localhost:1313/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/"
-                />
-  </url><url>
     <loc>http://localhost:1313/posts/11-extended-look-resumen-gameplay/</loc>
     <lastmod>2026-08-27T16:00:00-05:00</lastmod>
     <xhtml:link
@@ -123,19 +155,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/en/posts/11-extended-look-resumen-gameplay/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tags/gameplay/</loc>
-    <lastmod>2026-08-27T16:00:00-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-es"
-                href="http://localhost:1313/tags/gameplay/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/gameplay/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/cyberleek/</loc>
@@ -384,9 +403,6 @@
                 />
   </url><url>
     <loc>http://localhost:1313/tags/gu%C3%ADa/</loc>
-    <lastmod>2026-08-10T10:00:00-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/gu%C3%ADas/</loc>
     <lastmod>2026-08-10T10:00:00-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/leonida/</loc>
