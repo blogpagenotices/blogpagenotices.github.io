@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Map on GTA 6 News</title>
+    <link>http://localhost:1313/en/tags/map/</link>
+    <description>Recent content in Map on GTA 6 News</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Aug 2026 19:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/map/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GTA 6 just broke a Netflix record even Rockstar didn&#39;t see coming, and the map&#39;s size explains why</title>
+      <link>http://localhost:1313/en/posts/15-extended-look-record-netflix-mapa/</link>
+      <pubDate>Fri, 28 Aug 2026 19:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/en/posts/15-extended-look-record-netflix-mapa/</guid>
+      <description>The Extended Look became the number 1 most-watched title on Netflix, beating out movie premieres. It was also confirmed that GTA 6&amp;#39;s map will be about three times bigger than Red Dead Redemption 2&amp;#39;s.</description>
+    </item>
+  </channel>
+</rss>
