@@ -6,13 +6,48 @@
     <description>Recent content in Tags on GTA 6 News</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Aug 2026 19:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 19:00:00 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GTA 6</title>
       <link>http://localhost:1313/en/tags/gta-6/</link>
-      <pubDate>Fri, 28 Aug 2026 19:00:00 -0500</pubDate>
+      <pubDate>Thu, 03 Sep 2026 19:00:00 -0500</pubDate>
       <guid>http://localhost:1313/en/tags/gta-6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PlayStation</title>
+      <link>http://localhost:1313/en/tags/playstation/</link>
+      <pubDate>Thu, 03 Sep 2026 19:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/en/tags/playstation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PS5 Pro</title>
+      <link>http://localhost:1313/en/tags/ps5-pro/</link>
+      <pubDate>Thu, 03 Sep 2026 19:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/en/tags/ps5-pro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sales</title>
+      <link>http://localhost:1313/en/tags/sales/</link>
+      <pubDate>Thu, 03 Sep 2026 19:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/en/tags/sales/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Netflix</title>
+      <link>http://localhost:1313/en/tags/netflix/</link>
+      <pubDate>Wed, 02 Sep 2026 22:45:00 -0500</pubDate>
+      <guid>http://localhost:1313/en/tags/netflix/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rockstar Games</title>
+      <link>http://localhost:1313/en/tags/rockstar-games/</link>
+      <pubDate>Wed, 02 Sep 2026 22:45:00 -0500</pubDate>
+      <guid>http://localhost:1313/en/tags/rockstar-games/</guid>
       <description></description>
     </item>
     <item>
@@ -27,20 +62,6 @@
       <link>http://localhost:1313/en/tags/map/</link>
       <pubDate>Fri, 28 Aug 2026 19:00:00 -0500</pubDate>
       <guid>http://localhost:1313/en/tags/map/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Netflix</title>
-      <link>http://localhost:1313/en/tags/netflix/</link>
-      <pubDate>Fri, 28 Aug 2026 19:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/en/tags/netflix/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Rockstar Games</title>
-      <link>http://localhost:1313/en/tags/rockstar-games/</link>
-      <pubDate>Fri, 28 Aug 2026 19:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/en/tags/rockstar-games/</guid>
       <description></description>
     </item>
     <item>

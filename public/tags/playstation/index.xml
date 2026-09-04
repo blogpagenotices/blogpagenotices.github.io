@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PlayStation on GTA 6 Noticias</title>
+    <link>http://localhost:1313/tags/playstation/</link>
+    <description>Recent content in PlayStation on GTA 6 Noticias</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 03 Sep 2026 19:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/playstation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La PS5 Pro se agota por culpa de GTA 6, y los revendedores ya piden hasta $1,300 dolares por ella</title>
+      <link>http://localhost:1313/posts/17-ps5-pro-agotada-reventa/</link>
+      <pubDate>Thu, 03 Sep 2026 19:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/17-ps5-pro-agotada-reventa/</guid>
+      <description>El interes disparado por GTA 6 tras el Extended Look esta vaciando las tiendas de PlayStation 5 Pro, con precios de reventa que triplican el valor original de la consola.</description>
+    </item>
+  </channel>
+</rss>
