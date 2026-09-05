@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Industry on GTA 6 News</title>
-    <link>http://localhost:1313/en/tags/industry/</link>
-    <description>Recent content in Industry on GTA 6 News</description>
+    <title>Video Games on GTA 6 News</title>
+    <link>http://localhost:1313/en/tags/video-games/</link>
+    <description>Recent content in Video Games on GTA 6 News</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 04 Sep 2026 19:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/tags/industry/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/video-games/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GTA 6 clears out November completely: here&#39;s how the entire video game industry is reacting</title>
       <link>http://localhost:1313/en/posts/18-septiembre-vacio-industria-evita-gta6/</link>
       <pubDate>Fri, 04 Sep 2026 19:00:00 -0500</pubDate>
       <guid>http://localhost:1313/en/posts/18-septiembre-vacio-industria-evita-gta6/</guid>
       <description>No studio wants to compete with GTA 6 in November. The result: September 2026 became one of the months with the most major releases in recent history.</description>
-    </item>
-    <item>
-      <title>Why GTA 6&#39;s Netflix premiere matters more than it seems</title>
-      <link>http://localhost:1313/en/posts/12-netflix-alianza-historica/</link>
-      <pubDate>Thu, 27 Aug 2026 18:30:00 -0500</pubDate>
-      <guid>http://localhost:1313/en/posts/12-netflix-alianza-historica/</guid>
-      <description>Netflix streamed the new GTA 6 material in a world exclusive, six hours ahead of YouTube. We break down what this partnership means for the future of video games and streaming.</description>
     </item>
   </channel>
 </rss>

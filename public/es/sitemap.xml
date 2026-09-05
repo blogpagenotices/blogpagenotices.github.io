@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2026-09-03T19:00:00-05:00</lastmod>
+    <lastmod>2026-09-04T19:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/tags/gta-6/</loc>
-    <lastmod>2026-09-03T19:00:00-05:00</lastmod>
+    <lastmod>2026-09-04T19:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-09-03T19:00:00-05:00</lastmod>
+    <lastmod>2026-09-04T19:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
@@ -40,6 +40,67 @@
                 hreflang="en-us"
                 href="http://localhost:1313/en/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/posts/18-septiembre-vacio-industria-evita-gta6/</loc>
+    <lastmod>2026-09-04T19:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/posts/18-septiembre-vacio-industria-evita-gta6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/posts/18-septiembre-vacio-industria-evita-gta6/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/industria/</loc>
+    <lastmod>2026-09-04T19:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/noticias/</loc>
+    <lastmod>2026-09-04T19:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-09-04T19:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/posts/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/rockstar-games/</loc>
+    <lastmod>2026-09-04T19:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/tags/rockstar-games/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/rockstar-games/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-09-04T19:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/videojuegos/</loc>
+    <lastmod>2026-09-04T19:00:00-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/17-ps5-pro-agotada-reventa/</loc>
     <lastmod>2026-09-03T19:00:00-05:00</lastmod>
@@ -54,9 +115,6 @@
                 href="http://localhost:1313/en/posts/17-ps5-pro-agotada-reventa/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/noticias/</loc>
-    <lastmod>2026-09-03T19:00:00-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/playstation/</loc>
     <lastmod>2026-09-03T19:00:00-05:00</lastmod>
     <xhtml:link
@@ -70,19 +128,6 @@
                 href="http://localhost:1313/en/tags/playstation/"
                 />
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-09-03T19:00:00-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-es"
-                href="http://localhost:1313/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/posts/"
-                />
-  </url><url>
     <loc>http://localhost:1313/tags/ps5-pro/</loc>
     <lastmod>2026-09-03T19:00:00-05:00</lastmod>
     <xhtml:link
@@ -94,19 +139,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/en/tags/ps5-pro/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-09-03T19:00:00-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-es"
-                href="http://localhost:1313/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/ventas/</loc>
@@ -136,19 +168,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/en/tags/netflix/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tags/rockstar-games/</loc>
-    <lastmod>2026-09-02T22:45:00-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-es"
-                href="http://localhost:1313/tags/rockstar-games/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/rockstar-games/"
                 />
   </url><url>
     <loc>http://localhost:1313/posts/15-extended-look-record-netflix-mapa/</loc>
@@ -224,9 +243,6 @@
                 hreflang="en-us"
                 href="http://localhost:1313/en/posts/13-combate-max-payne-analisis/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/tags/industria/</loc>
-    <lastmod>2026-08-27T18:30:00-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/12-netflix-alianza-historica/</loc>
     <lastmod>2026-08-27T18:30:00-05:00</lastmod>

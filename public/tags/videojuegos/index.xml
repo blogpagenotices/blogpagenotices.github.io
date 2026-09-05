@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Industria on GTA 6 Noticias</title>
-    <link>http://localhost:1313/tags/industria/</link>
-    <description>Recent content in Industria on GTA 6 Noticias</description>
+    <title>Videojuegos on GTA 6 Noticias</title>
+    <link>http://localhost:1313/tags/videojuegos/</link>
+    <description>Recent content in Videojuegos on GTA 6 Noticias</description>
     <generator>Hugo</generator>
     <language>es-es</language>
     <lastBuildDate>Fri, 04 Sep 2026 19:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/industria/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/videojuegos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GTA 6 vacía noviembre por completo: así está reaccionando toda la industria del videojuego</title>
       <link>http://localhost:1313/posts/18-septiembre-vacio-industria-evita-gta6/</link>
       <pubDate>Fri, 04 Sep 2026 19:00:00 -0500</pubDate>
       <guid>http://localhost:1313/posts/18-septiembre-vacio-industria-evita-gta6/</guid>
       <description>Ningun estudio quiere competir contra GTA 6 en noviembre. El resultado: septiembre de 2026 se convirtio en uno de los meses con mas lanzamientos grandes de la historia reciente.</description>
-    </item>
-    <item>
-      <title>Por qué el estreno de GTA 6 en Netflix es más importante de lo que parece</title>
-      <link>http://localhost:1313/posts/12-netflix-alianza-historica/</link>
-      <pubDate>Thu, 27 Aug 2026 18:30:00 -0500</pubDate>
-      <guid>http://localhost:1313/posts/12-netflix-alianza-historica/</guid>
-      <description>Netflix transmitió en exclusiva mundial el nuevo material de GTA 6, seis horas antes que en YouTube. Analizamos qué significa esta alianza para el futuro de los videojuegos y el streaming.</description>
     </item>
   </channel>
 </rss>
