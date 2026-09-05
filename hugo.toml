@@ -4,7 +4,7 @@ defaultContentLanguageInSubdir = false
 theme = "PaperMod"
 googleAnalytics = "G-PBE4RX49LR"
 enableRobotsTXT = true
-
+ 
 [languages]
   [languages.es]
     languageCode = "es-es"
@@ -33,7 +33,7 @@ enableRobotsTXT = true
       name = "Privacidad"
       url = "/privacy/"
       weight = 5
-
+ 
   [languages.en]
     languageCode = "en-us"
     languageName = "English"
@@ -61,7 +61,7 @@ enableRobotsTXT = true
       name = "Privacy Policy"
       url = "/en/privacy/"
       weight = 5
-
+ 
 [params]
   env = "production"
   ShowReadingTime = true
@@ -70,3 +70,10 @@ enableRobotsTXT = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = false
   ShowToc = true
+ 
+  [params.assets]
+    favicon = "/favicon.ico"
+    favicon16x16 = "/favicon-16x16.png"
+    favicon32x32 = "/favicon-32x32.png"
+    apple_touch_icon = "/apple-touch-icon.png"
+
