@@ -5,6 +5,8 @@ draft = false
 description = 'Quiénes hacemos GTA 6 Noticias y de qué trata este sitio.'
 +++
 
+<img src="/images/logo-bp.png" alt="Logo de GTA 6 Noticias" width="300" style="display: block; margin-left: auto; margin-right: auto;">
+
 **GTA 6 Noticias** es un sitio independiente creado por un fan, dedicado a cubrir noticias, guías, teorías y análisis sobre Grand Theft Auto VI mientras se acerca su lanzamiento.
 
 ## Qué encontrarás aquí

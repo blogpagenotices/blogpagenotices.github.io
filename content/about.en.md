@@ -5,6 +5,8 @@ draft = false
 description = 'Who runs GTA 6 News and what this site is about.'
 +++
 
+<img src="/images/logo-bp.png" alt="GTA 6 News logo" width="300" style="display: block; margin-left: auto; margin-right: auto;">
+
 **GTA 6 News** is an independent fan-run site dedicated to covering news, guides, theories, and analysis about Grand Theft Auto VI as its release approaches.
 
 ## What you'll find here
