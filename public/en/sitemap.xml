@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/en/categories/</loc>
-    <lastmod>2026-09-04T19:00:00-05:00</lastmod>
+    <lastmod>2026-09-09T19:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
@@ -15,8 +15,21 @@
                 href="http://localhost:1313/en/categories/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/posts/19-cronologia-completa-gta6/</loc>
+    <lastmod>2026-09-09T19:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/posts/19-cronologia-completa-gta6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/posts/19-cronologia-completa-gta6/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/tags/gta-6/</loc>
-    <lastmod>2026-09-04T19:00:00-05:00</lastmod>
+    <lastmod>2026-09-09T19:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
@@ -26,6 +39,77 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/en/tags/gta-6/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/</loc>
+    <lastmod>2026-09-09T19:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/categories/guides/</loc>
+    <lastmod>2026-09-09T19:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/posts/</loc>
+    <lastmod>2026-09-09T19:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/posts/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/tags/rockstar-games/</loc>
+    <lastmod>2026-09-09T19:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/tags/rockstar-games/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/rockstar-games/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/tags/</loc>
+    <lastmod>2026-09-09T19:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/tags/timeline/</loc>
+    <lastmod>2026-09-09T19:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/vice-city/</loc>
+    <lastmod>2026-09-09T19:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/tags/vice-city/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/vice-city/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/posts/18-septiembre-vacio-industria-evita-gta6/</loc>
@@ -41,63 +125,11 @@
                 href="http://localhost:1313/en/posts/18-septiembre-vacio-industria-evita-gta6/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/</loc>
-    <lastmod>2026-09-04T19:00:00-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-es"
-                href="http://localhost:1313/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/"
-                />
-  </url><url>
     <loc>http://localhost:1313/en/tags/industry/</loc>
     <lastmod>2026-09-04T19:00:00-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/categories/news/</loc>
     <lastmod>2026-09-04T19:00:00-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/posts/</loc>
-    <lastmod>2026-09-04T19:00:00-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-es"
-                href="http://localhost:1313/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/posts/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/tags/rockstar-games/</loc>
-    <lastmod>2026-09-04T19:00:00-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-es"
-                href="http://localhost:1313/tags/rockstar-games/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/rockstar-games/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
-    <lastmod>2026-09-04T19:00:00-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-es"
-                href="http://localhost:1313/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/"
-                />
   </url><url>
     <loc>http://localhost:1313/en/tags/video-games/</loc>
     <lastmod>2026-09-04T19:00:00-05:00</lastmod>
@@ -224,9 +256,6 @@
                 hreflang="en-us"
                 href="http://localhost:1313/en/tags/gameplay/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/en/categories/guides/</loc>
-    <lastmod>2026-08-27T22:30:00-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/tags/combat/</loc>
     <lastmod>2026-08-27T21:00:00-05:00</lastmod>
@@ -501,19 +530,6 @@
   </url><url>
     <loc>http://localhost:1313/en/tags/release-date/</loc>
     <lastmod>2026-08-12T09:00:00-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/tags/vice-city/</loc>
-    <lastmod>2026-08-12T09:00:00-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-es"
-                href="http://localhost:1313/tags/vice-city/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/vice-city/"
-                />
   </url><url>
     <loc>http://localhost:1313/en/posts/1-todo-lo-que-sabemos-gta6/</loc>
     <lastmod>2026-08-10T10:00:00-05:00</lastmod>
