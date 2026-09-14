@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GTA Online on GTA 6 Noticias</title>
+    <link>http://localhost:1313/tags/gta-online/</link>
+    <description>Recent content in GTA Online on GTA 6 Noticias</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Sun, 13 Sep 2026 19:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/gta-online/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El silencio de Rockstar sobre el nuevo GTA Online no es un descuido: podría ser la decisión más inteligente de todas</title>
+      <link>http://localhost:1313/posts/20-futuro-gta-online-teoria/</link>
+      <pubDate>Sun, 13 Sep 2026 19:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/20-futuro-gta-online-teoria/</guid>
+      <description>Un periodista especializado teoriza que el nuevo modo online de GTA 6 podría tardar años en llegar. Analizamos por qué esto tiene más sentido del que parece a primera vista.</description>
+    </item>
+  </channel>
+</rss>
