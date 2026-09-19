@@ -2,11 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/tags/analysis/</loc>
-    <lastmod>2026-09-13T19:00:00-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/en/categories/</loc>
-    <lastmod>2026-09-13T19:00:00-05:00</lastmod>
+    <lastmod>2026-09-19T13:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
@@ -19,7 +16,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/tags/gta-6/</loc>
-    <lastmod>2026-09-13T19:00:00-05:00</lastmod>
+    <lastmod>2026-09-19T13:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
@@ -32,7 +29,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/</loc>
-    <lastmod>2026-09-13T19:00:00-05:00</lastmod>
+    <lastmod>2026-09-19T13:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
@@ -45,7 +42,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/tags/gta-online/</loc>
-    <lastmod>2026-09-13T19:00:00-05:00</lastmod>
+    <lastmod>2026-09-19T13:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
@@ -57,8 +54,11 @@
                 href="http://localhost:1313/en/tags/gta-online/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/categories/news/</loc>
+    <lastmod>2026-09-19T13:00:00-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/en/posts/</loc>
-    <lastmod>2026-09-13T19:00:00-05:00</lastmod>
+    <lastmod>2026-09-19T13:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
@@ -71,7 +71,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/tags/rockstar-games/</loc>
-    <lastmod>2026-09-13T19:00:00-05:00</lastmod>
+    <lastmod>2026-09-19T13:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-es"
@@ -82,6 +82,64 @@
                 hreflang="en-us"
                 href="http://localhost:1313/en/tags/rockstar-games/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/en/tags/</loc>
+    <lastmod>2026-09-19T13:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/tags/twitch/</loc>
+    <lastmod>2026-09-19T13:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/tags/twitch/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/twitch/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/posts/22-twitch-ceo-2027-multijugador/</loc>
+    <lastmod>2026-09-19T13:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/posts/22-twitch-ceo-2027-multijugador/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/posts/22-twitch-ceo-2027-multijugador/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/posts/21-documentos-judiciales-online-32-jugadores/</loc>
+    <lastmod>2026-09-15T20:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-es"
+                href="http://localhost:1313/posts/21-documentos-judiciales-online-32-jugadores/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/posts/21-documentos-judiciales-online-32-jugadores/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/tags/sales/</loc>
+    <lastmod>2026-09-15T20:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/analysis/</loc>
+    <lastmod>2026-09-13T19:00:00-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/posts/20-futuro-gta-online-teoria/</loc>
     <lastmod>2026-09-13T19:00:00-05:00</lastmod>
@@ -94,19 +152,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="http://localhost:1313/en/posts/20-futuro-gta-online-teoria/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
-    <lastmod>2026-09-13T19:00:00-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-es"
-                href="http://localhost:1313/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/categories/theories/</loc>
@@ -160,9 +205,6 @@
     <loc>http://localhost:1313/en/tags/industry/</loc>
     <lastmod>2026-09-04T19:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/categories/news/</loc>
-    <lastmod>2026-09-04T19:00:00-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/en/tags/video-games/</loc>
     <lastmod>2026-09-04T19:00:00-05:00</lastmod>
   </url><url>
@@ -204,9 +246,6 @@
                 hreflang="en-us"
                 href="http://localhost:1313/en/posts/17-ps5-pro-agotada-reventa/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/en/tags/sales/</loc>
-    <lastmod>2026-09-03T19:00:00-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/posts/16-reservas-disparadas-extended-look/</loc>
     <lastmod>2026-09-02T22:45:00-05:00</lastmod>

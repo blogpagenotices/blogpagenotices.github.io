@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Twitch on GTA 6 Noticias</title>
+    <link>http://localhost:1313/tags/twitch/</link>
+    <description>Recent content in Twitch on GTA 6 Noticias</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Sat, 19 Sep 2026 13:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/twitch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El CEO de Twitch pone fecha al modo online de GTA 6, y no es la que esperabas</title>
+      <link>http://localhost:1313/posts/22-twitch-ceo-2027-multijugador/</link>
+      <pubDate>Sat, 19 Sep 2026 13:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/22-twitch-ceo-2027-multijugador/</guid>
+      <description>Dan Clancy, máximo responsable de Twitch, sugirió que el modo multijugador de GTA 6 podría llegar en 2027, un año después del lanzamiento del juego principal.</description>
+    </item>
+  </channel>
+</rss>
