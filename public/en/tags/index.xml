@@ -6,7 +6,7 @@
     <description>Recent content in Tags on GTA 6 News</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Sep 2026 13:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 14:30:00 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GTA 6</title>
@@ -16,10 +16,17 @@
       <description></description>
     </item>
     <item>
-      <title>GTA Online</title>
-      <link>http://localhost:1313/en/tags/gta-online/</link>
-      <pubDate>Sat, 19 Sep 2026 13:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/en/tags/gta-online/</guid>
+      <title>Marketing</title>
+      <link>http://localhost:1313/en/tags/marketing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/marketing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Norway</title>
+      <link>http://localhost:1313/en/tags/norway/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/norway/</guid>
       <description></description>
     </item>
     <item>
@@ -27,6 +34,13 @@
       <link>http://localhost:1313/en/tags/rockstar-games/</link>
       <pubDate>Sat, 19 Sep 2026 13:00:00 -0500</pubDate>
       <guid>http://localhost:1313/en/tags/rockstar-games/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GTA Online</title>
+      <link>http://localhost:1313/en/tags/gta-online/</link>
+      <pubDate>Sat, 19 Sep 2026 13:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/en/tags/gta-online/</guid>
       <description></description>
     </item>
     <item>
