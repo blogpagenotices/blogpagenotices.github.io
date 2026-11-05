@@ -1,15 +1,15 @@
 +++
-title = 'La PS5 Pro se agota por culpa de GTA 6, y los revendedores ya piden hasta $1,300 dolares por ella'
+title = 'La PS5 Pro se agota por culpa de GTA 6, y los revendedores ya piden hasta $1,300 dólares por ella'
 date = 2026-09-03T19:00:00-05:00
 draft = false
-description = 'El interes disparado por GTA 6 tras el Extended Look esta vaciando las tiendas de PlayStation 5 Pro, con precios de reventa que triplican el valor original de la consola.'
-summary = 'Analizamos por que la PS5 Pro se esta agotando semanas antes del lanzamiento de GTA 6, y que tan razonable es pagar de mas por una ahora mismo.'
+description = 'El interés disparado por GTA 6 tras el Extended Look está vaciando las tiendas de PlayStation 5 Pro, con precios de reventa que triplican el valor original de la consola.'
+summary = 'Analizamos por qué la PS5 Pro se está agotando semanas antes del lanzamiento de GTA 6, y qué tan razonable es pagar de más por una ahora mismo.'
 tags = ['GTA 6', 'PS5 Pro', 'PlayStation', 'Ventas']
 categories = ['Noticias']
 
 [cover]
   image = 'images/gta6-ventas-ps5.jpg'
-  alt = 'Consola PS5 junto a una lampara con los simbolos de PlayStation iluminados en un cuarto con luces neon'
+  alt = 'Consola PS5 junto a una lámpara con los simbolos de PlayStation iluminados en un cuarto con luces de neón'
   caption = ''
   relative = false
   hidden = false

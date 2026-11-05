@@ -2,15 +2,15 @@
 title = 'GTA 6 acaba de romper un récord en Netflix que ni Rockstar esperaba, y el tamaño del mapa lo explica todo'
 date = 2026-08-28T19:00:00-05:00
 draft = false
-description = 'El Extended Look se convirtió en el numero 1 de lo mas visto en Netflix, superando estrenos de peliculas. Ademas, se confirmo que el mapa de GTA 6 sera unas tres veces mas grande que el de Red Dead Redemption 2.'
-summary = 'Datos de Sensor Tower confirman que el Extended Look de GTA 6 se convirtio en el contenido mas visto de Netflix. Repasamos las cifras y el dato del tamano del mapa que nadie esperaba.'
+description = 'El Extended Look se convirtió en el número 1 de lo más visto en Netflix, superando estrenos de películas. Además, se confirmó que el mapa de GTA 6 será unas tres veces más grande que el de Red Dead Redemption 2.'
+summary = 'Datos de Sensor Tower confirman que el Extended Look de GTA 6 se convirtió en el contenido más visto de Netflix. Repasamos las cifras y el dato del tamaño del mapa que nadie esperaba.'
 tags = ['GTA 6', 'Rockstar Games', 'Netflix', 'Mapa', 'Leonida']
 categories = ['Noticias']
 
 [cover]
   image = 'images/gta6-mapa-record.jpg'
   alt = 'Vista aérea nocturna de la ciudad de GTA 6'
-  caption = 'Captura oficial cortesia de Rockstar Games'
+  caption = 'Captura oficial cortesía de Rockstar Games'
   relative = false
   hidden = false
 +++

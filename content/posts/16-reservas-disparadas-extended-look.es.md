@@ -9,8 +9,8 @@ categories = ['Noticias']
 
 [cover]
   image = 'images/gta6-jason-lucia-atardecer.jpg'
-  alt = 'Jason y Lucia abrazados al atardecer con lanchas policiales y un helicoptero de fondo'
-  caption = 'Captura oficial cortesia de Rockstar Games'
+  alt = 'Jason y Lucía abrazados al atardecer con lanchas policiales y un helicóptero de fondo'
+  caption = 'Captura oficial cortesía de Rockstar Games'
   relative = false
   hidden = false
 +++

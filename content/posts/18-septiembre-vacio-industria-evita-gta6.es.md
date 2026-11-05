@@ -2,8 +2,8 @@
 title = 'GTA 6 vacía noviembre por completo: así está reaccionando toda la industria del videojuego'
 date = 2026-09-04T19:00:00-05:00
 draft = false
-description = 'Ningun estudio quiere competir contra GTA 6 en noviembre. El resultado: septiembre de 2026 se convirtio en uno de los meses con mas lanzamientos grandes de la historia reciente.'
-summary = 'Marvel Lobezno, Silent Hill Townfall, Control Resonant y muchos mas se estan amontonando en septiembre para evitar chocar con GTA 6 en noviembre.'
+description = 'Ningún estudio quiere competir contra GTA 6 en noviembre. El resultado: septiembre de 2026 se convirtió en uno de los meses con más lanzamientos grandes de la historia reciente.'
+summary = 'Marvel Lobezno, Silent Hill Townfall, Control Resonant y muchos más se están amontonando en septiembre para evitar chocar con GTA 6 en noviembre.'
 tags = ['GTA 6', 'Rockstar Games', 'Industria', 'Videojuegos']
 categories = ['Noticias']
 

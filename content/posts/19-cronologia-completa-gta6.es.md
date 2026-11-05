@@ -2,8 +2,8 @@
 title = 'De un tráiler filtrado a la obra más esperada del año: la cronología completa de GTA 6'
 date = 2026-09-09T19:00:00-05:00
 draft = false
-description = 'Dos retrasos, una filtración masiva, un comunicado inusual de Rockstar y un récord en Netflix: repasamos paso a paso como GTA 6 llegó hasta donde esta hoy.'
-summary = 'Desde el anuncio de 2023 hasta el Extended Look de agosto de 2026: la historia completa, ordenada, de como GTA 6 se convirtió en el fenómeno mas grande del año.'
+description = 'Dos retrasos, una filtración masiva, un comunicado inusual de Rockstar y un récord en Netflix: repasamos paso a paso cómo GTA 6 llegó hasta donde está hoy.'
+summary = 'Desde el anuncio de 2023 hasta el Extended Look de agosto de 2026: la historia completa, ordenada, de cómo GTA 6 se convirtió en el fenómeno más grande del año.'
 tags = ['GTA 6', 'Rockstar Games', 'Cronología', 'Vice City']
 categories = ['Guías']
 

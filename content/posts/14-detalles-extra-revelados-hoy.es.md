@@ -2,7 +2,7 @@
 title = 'Más allá del gameplay: todo lo que Rockstar reveló hoy sobre GTA 6 y que casi nadie está comentando'
 date = 2026-08-27T22:30:00-05:00
 draft = false
-description = 'Entre el Extended Look y una entrevista exclusiva con Dazed, Rockstar confirmo un sistema de moda real, streamers dentro del juego, el regreso de Snapmatic y hasta la posibilidad de acariciar perros.'
+description = 'Entre el Extended Look y una entrevista exclusiva con Dazed, Rockstar confirmó un sistema de moda real, streamers dentro del juego, el regreso de Snapmatic y hasta la posibilidad de acariciar perros.'
 summary = 'Repasamos los detalles de GTA 6 revelados hoy que quedaron eclipsados por el Extended Look: moda, mascotas, redes sociales y streaming dentro del juego.'
 tags = ['GTA 6', 'Rockstar Games', 'Gameplay', 'Leonida']
 categories = ['Guías']

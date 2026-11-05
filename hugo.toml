@@ -12,13 +12,13 @@ enableRobotsTXT = true
     weight = 1
     title = "GTA 6 Noticias"
     [languages.es.params]
-      description = "Noticias, guias y teorias sobre GTA 6"
+      description = "Noticias, guías y teorías sobre GTA 6"
     [[languages.es.menu.main]]
       name = "Inicio"
       url = "/"
       weight = 1
     [[languages.es.menu.main]]
-      name = "Articulos"
+      name = "Artículos"
       url = "/posts/"
       weight = 2
     [[languages.es.menu.main]]
