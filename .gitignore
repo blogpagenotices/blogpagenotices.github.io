@@ -1,1 +1,6 @@
-.MDS DE PASOS PARA PUBLICAR EN EL BLOG
+﻿.MDS DE PASOS PARA PUBLICAR EN EL BLOG
+
+# Salida de compilacion de Hugo (la genera GitHub Actions)
+public/
+resources/
+.hugo_build.lock
