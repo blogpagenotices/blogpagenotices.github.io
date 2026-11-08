@@ -44,7 +44,7 @@ En PS5, en cambio, la precarga llega a la medianoche de **tu** zona horaria: el 
 
 Rockstar indica que el juego necesitará **hasta 212 GB** de almacenamiento y advierte que la cifra puede variar según el dispositivo. No publicó un desglose por consola. Antes del anuncio circulaba una filtración que hablaba de unos 210 GB en PS5, una cifra bastante cercana a la oficial.
 
-Para ponerlo en perspectiva, es más del doble de lo que ocupa GTA V Enhanced en PS5 (unos 87 GB). Y ojo: necesitas algo de margen extra para parches y actualizaciones de lanzamiento, así que no lo dejes justo.
+Ojo: necesitas algo de margen extra para parches y actualizaciones de lanzamiento, así que no lo dejes justo.
 
 ## Cuánto tardarás en descargarlo
 

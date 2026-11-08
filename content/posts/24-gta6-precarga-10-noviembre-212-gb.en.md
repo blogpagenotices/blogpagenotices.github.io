@@ -44,7 +44,7 @@ On PS5, preload arrives at midnight in **your** time zone: November 10 at 12:00 
 
 Rockstar says the game will need **up to 212 GB** of storage and notes the figure may vary by device. There is no per-console breakdown. Before the announcement, a leak pointed to about 210 GB on PS5, which turned out to be close to the official figure.
 
-For perspective, that is more than double GTA V Enhanced on PS5 (around 87 GB). Leave some extra room for launch patches and updates, too.
+Leave some extra room for launch patches and updates, too.
 
 ## How long will the download take
 
