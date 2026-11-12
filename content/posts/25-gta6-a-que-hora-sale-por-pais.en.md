@@ -1,9 +1,10 @@
 +++
 title = 'What time does GTA 6 come out in your country: unlock times for the US, UK, Europe and more'
 date = 2026-11-06T08:00:00-05:00
+lastmod = 2026-11-12T17:40:00-05:00
 draft = false
-description = "GTA 6 launches on November 19, but not at the same moment worldwide. According to PlayStation Store, it unlocks at local midnight. See the unlock time for the US, UK, Europe, Latin America and more."
-summary = "GTA 6 unlock time by country: according to PlayStation Store, 12:00 a.m. local time on November 19. What is confirmed and what is not."
+description = "GTA 6 launches on November 19, but not at the same moment worldwide. Rockstar confirms it will be at local midnight. See the unlock time for the US, UK, Europe, Latin America and more."
+summary = "GTA 6 unlock time by country: Rockstar confirms it will be at local midnight on November 19. What is confirmed and what is not."
 tags = ['GTA 6', 'Release time', 'Unlock time', 'Release date', 'PS5', 'Xbox Series X|S']
 categories = ['Guides']
 
@@ -17,9 +18,9 @@ categories = ['Guides']
 
 ## The short answer
 
-**GTA 6 launches on November 19, 2026**, but it does not unlock everywhere at the same time. According to PlayStation Store listings, the game unlocks at **12:00 a.m. (midnight) on November 19, local time in each country**. In practice, for most of the Americas and Europe that means **the night of Wednesday the 18th into Thursday the 19th**.
+**GTA 6 launches on November 19, 2026**, but it does not unlock everywhere at the same time. According to Rockstar, the game launches at **midnight local time on November 19, 2026, in all regions**. In practice, for most of the Americas and Europe that means **the night of Wednesday the 18th into Thursday the 19th**.
 
-One important caveat: **Rockstar has not published an unlock time of its own**. The information comes from the stores, so treat it as very likely, but not as an official announcement. Below we explain what is confirmed and what is not.
+Rockstar states this on its support page, as reported by Forbes on November 12. What **Rockstar has not published** is a breakdown by time zone: the times in the table come from store listings, so they are the most likely interpretation, not an official list. Below we explain what is confirmed and what is not.
 
 ## What time does GTA 6 come out in your country
 
@@ -27,8 +28,10 @@ This table shows the local unlock time, based on store data. If you have preload
 
 | Country | Unlock time (local) |
 |---|---|
-| **United States (East Coast)** | 12:00 a.m., Thursday, November 19 |
-| **United States (West Coast)** | 9:00 p.m., Wednesday, November 18 |
+| **United States (Eastern)** | 12:00 a.m., Thursday, November 19 |
+| **United States (Central)** | 11:00 p.m., Wednesday, November 18 |
+| **United States (Mountain)** | 10:00 p.m., Wednesday, November 18 |
+| **United States (Pacific)** | 9:00 p.m., Wednesday, November 18 |
 | **Canada** | 12:00 a.m., Thursday, November 19 (Eastern time) |
 | **UK, Ireland, Portugal** | 12:00 a.m., Thursday, November 19 |
 | **France, Germany, Italy, Spain** | 12:00 a.m., Thursday, November 19 |
@@ -48,11 +51,12 @@ Because unlock happens at local midnight, the game arrives in waves. According t
 ## What is confirmed and what is not
 
 - **Confirmed:** the November 19, 2026 date, for PS5 and Xbox Series X|S.
-- **Seen in the store, not announced by Rockstar:** the local-midnight unlock on PlayStation Store.
+- **Confirmed by Rockstar:** that the game launches at midnight local time on November 19 in all regions, according to its support page.
+- **Seen in the store, not broken down by Rockstar:** the exact time by country or time zone, which comes from PlayStation Store listings.
 - **Unconfirmed:** Xbox. Its web page shows only the date, with no time, although the store's internal data points the same way in many countries.
 - **Unconfirmed:** that a given country will not have a different time than expected. If your country is not in the table, check the game's page in your store.
 
-We will update this article when Rockstar makes an official announcement.
+If Rockstar publishes a breakdown by time zone, we will update this article.
 
 ## How to be ready at that time
 
@@ -71,4 +75,5 @@ To review everything official, see our post on [the confirmed release date](/en/
 - [Vandal - GTA 6 confirma la hora exacta para su lanzamiento en España y el resto del mundo](https://vandal.elespanol.com/noticia/2026250032/gta-6-confirma-la-hora-exacta-para-su-lanzamiento-en-espana-y-el-resto-del-mundo/)
 - [Hipertextual - Ya es oficial: GTA 6 no tendrá un debut simultáneo en todo el mundo](https://hipertextual.com/videojuegos/ya-es-oficial-gta-6-no-tendra-un-debut-simultaneo-en-todo-el-mundo-te-contamos-a-que-hora-podras-jugar/)
 - [GTASix - GTA 6 Release Time: PS5 and Xbox Stores List Midnight](https://gtasix.org/en/guide/launch-time/)
+- [Forbes - GTA 6 Unlocks At Midnight On November 19, But Millions Of Americans Can Start Playing The Night Before](https://www.forbes.com/sites/brianmazique/2026/11/12/gta-6-unlocks-at-midnight-on-november-19-but-millions-of-americans-can-start-playing-the-night-before/)
 - [Forbes - GTA VI Preload Time, Specs and Key Information](https://www.forbes.com/sites/brianmazique/2026/10/26/you-can-install-gta-vi-early---heres-the-preload-window/)
